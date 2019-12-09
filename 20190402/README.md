@@ -1,21 +1,21 @@
 
-![ByNovanet](https://github.com/novanet/meetups/blob/master/20190402/content/header.png)
+![ByNovanet](https://github.com/novanet/fagkvelder/blob/master/20190402/content/header.png)
 
 # Fagkveld 02.04.2019
 
 Tema for kvelden var "By Novanet: Del hva du jobber med", hvor flere presenterte enten prosjektet eller tekonogien de jobber med til daglig.
 
-[Lenke til innhold](https://github.com/novanet/meetups/tree/master/20190402/content)
+[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/20190402/content)
 
 ## Azure Cli & me - Johan
 
-[Lenke til presentasjon](https://github.com/novanet/meetups/tree/master/20190402/content/AzureCLIanme.pdf)
+[Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/20190402/content/AzureCLIanme.pdf)
 
-![Johan](https://github.com/novanet/meetups/blob/master/20190402/content/johan.jpg)
+![Johan](https://github.com/novanet/fagkvelder/blob/master/20190402/content/johan.jpg)
 
 Johan fortalte om Azure CLI (az), og hvordan de bruker det i Thon-prosjektet. Han mener man kan gjøre alt med az, og det du ikke kan gjøre kan man lage extentions for (i Python). F.eks. har ikke Azure CLI støtte for Application Insights, men man kan hente Application Insights som en generell Azure resource, og så gjøre spørringer mot denne. Johan gav en demo på hvordan dette kunne gjøres.
 
-[Se scriptet her](https://github.com/novanet/meetups/tree/master/20190402/content/azure-cli-demo.sh)
+[Se scriptet her](https://github.com/novanet/fagkvelder/tree/master/20190402/content/azure-cli-demo.sh)
 
 Johan viste også hvordan de bruker az til å hente "secrets" (fra Key Vault) for å kjøre løsninger på lokalt utviklingmiljø. Med egne tilpassnigner for Mac, Windows (Git Bash) og Linux. Han viste et uforståelig skript de måtte bruke for å fjerne dobbeltfnutter (") rundt verdier som kommer ut av Keyvault, og at de hadde tilsvarende for linjeskift.
 
@@ -23,9 +23,9 @@ Videre fortalte han at de bruker az for å blant annet kjøre ARM-templates ved 
 
 ## Securitas - Richard
 
-[Lenke til presentasjon](https://github.com/novanet/meetups/tree/master/20190402/content/securitas.pdf)
+[Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/20190402/content/securitas.pdf)
 
-![Richard](https://github.com/novanet/meetups/blob/master/20190402/content/richard.jpg)
+![Richard](https://github.com/novanet/fagkvelder/blob/master/20190402/content/richard.jpg)
 
 Richard fortalte om prosjektet som Novanet har hos Securitas, og om sine oppgaver:
 
@@ -52,9 +52,9 @@ Når man mottar en melding, er det en broker som låser meldingen i en forutbest
 
 ## NRK - Ingve
 
-[Lenke til presentasjon](https://github.com/novanet/meetups/tree/master/20190402/content/nrk/pres.md)
+[Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/20190402/content/nrk/pres.md)
 
-![Ingve](https://github.com/novanet/meetups/blob/master/20190402/content/ingve.jpg)
+![Ingve](https://github.com/novanet/fagkvelder/blob/master/20190402/content/ingve.jpg)
 
 Ingve har bare vært hos NRK noen måneder som del av Radio-teamet. Han har allerde jobbet med Google Home, Sonos og Azure Search.
 
@@ -117,7 +117,7 @@ Gotchas:
 
 ## Polaris.API - Jan Tore
 
-![Jan Tore](https://github.com/novanet/meetups/blob/master/20190402/content/jantore.jpg)
+![Jan Tore](https://github.com/novanet/fagkvelder/blob/master/20190402/content/jantore.jpg)
 
 Jan Tore snakket om Polaris.API hos If. Polaris.API er en del av Waypoint-prosjektet, som er Nord-Europas største .NET Prosjekt. Det er over 200 personer som jobber med Waypoint, 115 konsulenter(i norge). Prosjektet ble startet i 2006, og har masse legacy code.
 
@@ -130,9 +130,9 @@ Hele Waypoint skal opp i skyen i 2020. Det er såpass stort at If allerede er en
 
 ## Open Tracing med Jaeger - Nils Georg
 
-![Nils Georg](https://github.com/novanet/meetups/blob/master/20190402/content/nilsgeorg.jpg)
+![Nils Georg](https://github.com/novanet/fagkvelder/blob/master/20190402/content/nilsgeorg.jpg)
 
-[Open Tracing](https://github.com/novanet/meetups/blob/master/20190402/README.md) er en beskrivelse av hvordan man skal gjøre tracing i et distribuert system. 
+[Open Tracing](https://github.com/novanet/fagkvelder/blob/master/20190402/README.md) er en beskrivelse av hvordan man skal gjøre tracing i et distribuert system. 
 
 [Jaeger](https://github.com/jaegertracing/jaeger) er et system for distribuert tracing basert på Open Tracing (Open Tracing kompatible datamodell), som er laget av Uber. Jaeger tar i mot data og visualiserer denne. 
 
@@ -150,9 +150,9 @@ For .NET Full Framework må man sette opp en del mer selv (enn i .NET Core).
 
 ## Testing av http u-tjenester - Olav
 
-[Lenke til presentasjon](https://github.com/novanet/meetups/tree/master/20190402/content/Pact.pdf)
+[Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/20190402/content/Pact.pdf)
 
-![Olav](https://github.com/novanet/meetups/blob/master/20190402/content/olav.jpg)
+![Olav](https://github.com/novanet/fagkvelder/blob/master/20190402/content/olav.jpg)
 
 Olav fortalte om hvordan de tester HTTP-baserte tjenester i Thon-prosjektet. Open Tracing skal merges med Open Census (som er tilsvarende fra Google). 
 

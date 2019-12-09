@@ -1,14 +1,14 @@
 # Fagkveld 19.01.2018
 
-![Arkademaskin](https://github.com/novanet/meetups/blob/master/20190131/content/arcadegames.gif)
+![Arkademaskin](https://github.com/novanet/fagkvelder/blob/master/20190131/content/arcadegames.gif)
 
-[Lenke til innhold](https://github.com/novanet/meetups/tree/master/20190131/content)
+[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/20190131/content)
 
 ## Oppstart NRK - Hallstein
 
-![NRK](https://github.com/novanet/meetups/blob/master/20190131/content/Logo_NRK.gif)
+![NRK](https://github.com/novanet/fagkvelder/blob/master/20190131/content/Logo_NRK.gif)
 
-[Lenke til presentasjon](https://github.com/novanet/meetups/tree/master/20190131/content/nrk.pdf)
+[Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/20190131/content/nrk.pdf)
 
 Hallstein fortale om sine første tok uker hos NRK. Det startet med at Marianne la ut info om oppdraget på #salg kanalen. Hallstein meldte sin interesse og var på intervju hos NRK. Han kom inn i teamet "Digital historiefortelling".
 
@@ -18,7 +18,7 @@ Hallstein har jobbet med NRKs API for Valget 2019. På bare to uker har de gjort
 
 ## NDC Call for Papers
 
-[Lenke til presentasjon](https://github.com/novanet/meetups/tree/master/20190131/content/Fagkveld31012019Arkademaskin.pdf)
+[Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/20190131/content/Fagkveld31012019Arkademaskin.pdf)
 
 https://ndcoslo.com/page/call-for-papers/
 
@@ -39,7 +39,7 @@ I et møte med andre fagansvarlige fra NDCs partnere, kom man frem til at gode p
 
 ## Arkademaskin
 
-[Lenke til presentasjon](https://github.com/novanet/meetups/tree/master/20190131/content/Fagkveld31012019Arkademaskin.pdf)
+[Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/20190131/content/Fagkveld31012019Arkademaskin.pdf)
 
 Vi delte opp i to grupper, og diskuterte hvordan man kan gjennomføre bygging av en arkademaskin. Vi kom frem til følgende:
 

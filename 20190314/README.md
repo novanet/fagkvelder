@@ -1,12 +1,12 @@
 # Fagkveld 15.03.2019
 
-![Badstue](https://github.com/novanet/meetups/blob/master/20190314/content/badstue.jpg)
+![Badstue](https://github.com/novanet/fagkvelder/blob/master/20190314/content/badstue.jpg)
 
-[Lenke til innhold](https://github.com/novanet/meetups/tree/master/20190314/content)
+[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/20190314/content)
 
 ## Innovasjon i DNB - Espen Sande Larsen - DNB
 
-[Lenke til presentasjon](https://github.com/novanet/meetups/tree/master/20190131/content/Fagkveld_januar.pdf)
+[Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/20190131/content/Fagkveld_januar.pdf)
 
 Espen jobber som Innovation Development Specialist i DNB NewTechLab, som er satt sammen av 8 personer med ulik bakgrunn (matematikere, kodere, han selv kalte seg en potet med variert bakgrunn). Teamet jobber superagilt og alle kan kode. Han har jobbet med teknologi i 25 års erfaring. Han droppet ut av skolen og begynte å jobbe da han var 15 år. Karakterer var ikke noe for han. Privat holder han på med å fikse retro datamaskiner og i det siste har han laget en 3D rasterizer i Javascript.
 
@@ -16,7 +16,7 @@ Espen startet en video, som viste hvordan han laget sin jobbsøknad til DNB. Han
 
 "Whats the future?" er det DNB NewTechLab jobber med
 
-![Horizonter](https://github.com/novanet/meetups/blob/master/20190314/content/horizons.png)
+![Horizonter](https://github.com/novanet/fagkvelder/blob/master/20190314/content/horizons.png)
 
 Vekst kommer i horizonter:
 
@@ -28,13 +28,13 @@ Det er et gap mellom tech som utvikler seg fort, og business som utvikler seg sa
 
 ### How to win? Where to play?
 
-![WhereToPlay](https://github.com/novanet/meetups/blob/master/20190314/content/wheretoplay.png)
+![WhereToPlay](https://github.com/novanet/fagkvelder/blob/master/20190314/content/wheretoplay.png)
 
 Majoriteten av fremtidens vekst ligger i "Transformational" delen, som foreløpig er ukjent. F.eks. på 80-tallet hadde Espen en Commandore 64 med 64 KB med minne som han kunne programmerere mot. Nylig kjøpte han en ny pc med 64 GB. Dvs. at man får plass til 1 000 000 Commandore 64 i den nye pcen. Noe som viser at man ikke kan forutse hvor store endringer som kommer i fremtiden, og at det er viktig å ligger i forkant for å sikre fortsatt vekst.
 
 NewTechLab bruker 20% av tiden sin på bred utforskning. Som ikke trenger å være bankrelatert. F.eks. av nye gadgets, sensorer, rammeverk, språk. Hva er nytt, spennende eller kult?
 
-![LUMIAMI](https://github.com/novanet/meetups/blob/master/20190314/content/lumiami.png)
+![LUMIAMI](https://github.com/novanet/fagkvelder/blob/master/20190314/content/lumiami.png)
 
 Så bruker de LUMIAMI på dette:
 
@@ -48,13 +48,13 @@ Så bruker de LUMIAMI på dette:
 
 ### Wild World
 
-![LUMIAMI](https://github.com/novanet/meetups/blob/master/20190314/content/wild_world.png)
+![LUMIAMI](https://github.com/novanet/fagkvelder/blob/master/20190314/content/wild_world.png)
 
 Prioriter ideer basert på hvor stor impact de har (wild) og hvor enkelt det er å implementere (worldly). Hvis en idé er "wild" men beveger seg mot å bli akseptert og mulig å implementere, er det kanskje noe man skal jobbe med.
 
 Idéer beveger seg fra: Umulig -> Upraktisk -> Mulig -> Forventet -> Påkrevd
 
-![shouldwedoit](https://github.com/novanet/meetups/blob/master/20190314/content/shouldwedoit.png)
+![shouldwedoit](https://github.com/novanet/fagkvelder/blob/master/20190314/content/shouldwedoit.png)
 
 Man bør spørre seg:
 
@@ -66,7 +66,7 @@ Så viste Espen er par eksempler på hva de har jobbet med:
 
 ### DNB Techradar
 
-![techradar](https://github.com/novanet/meetups/blob/master/20190314/content/IMG_3435.JPG)
+![techradar](https://github.com/novanet/fagkvelder/blob/master/20190314/content/IMG_3435.JPG)
 
 - DNB er sola
 - Jo nærmere sola, jo nærmer er de å treffe oss
@@ -90,7 +90,7 @@ Viste en video som demonsterte løsningen:
 
 ## Innovasjon i retail - Cecilie Lin Tveter - Northern Beath
 
-[Lenke til presentasjon](https://github.com/novanet/meetups/blob/master/20190314/content/InnovasjonRetail.pdf)
+[Lenke til presentasjon](https://github.com/novanet/fagkvelder/blob/master/20190314/content/InnovasjonRetail.pdf)
 
 Cecilie fra Northern Beat kom for å fortelle om innovasjon i retail, og prosjektene hun har jobbet med i det siste. Northern Beat har mange idéer. Men trenger tech for å gjennomføre de. Håper at Northern Beat og Novanet kan gjøre dette sammen.
 
@@ -110,7 +110,7 @@ GS1 - vedlikeholder og tilbyr globale standarder for effektiv vare- og informasj
 
 Hvorfor skal man kjøpe i butikk? Dette må butikkene løse fremover.
 
-![nike](https://github.com/novanet/meetups/blob/master/20190314/content/nike.png)
+![nike](https://github.com/novanet/fagkvelder/blob/master/20190314/content/nike.png)
 
 Noen muligheter/trender:
 
@@ -134,7 +134,7 @@ Noen muligheter/trender:
 - VR
 	- Tommy Hilfiger - motevising av nye kolleksjon
 
-![fashionstore](https://github.com/novanet/meetups/blob/master/20190314/content/Minkoff.jpg)
+![fashionstore](https://github.com/novanet/fagkvelder/blob/master/20190314/content/Minkoff.jpg)
 
 Så viste Cecilie en video fra en motebutikk
 
@@ -145,7 +145,7 @@ Så viste Cecilie en video fra en motebutikk
 
 ### E-commerce
 
-![dot](https://github.com/novanet/meetups/blob/master/20190314/content/dot.png)
+![dot](https://github.com/novanet/fagkvelder/blob/master/20190314/content/dot.png)
 
 - Zozo
 	- Bestill kostnadfri drakt med prikker
@@ -198,17 +198,17 @@ Så viste Cecilie en video fra en motebutikk
 		- PIM - produktdatabase
 		- Farger må relateres til andre farger
 
-![fargerike](https://github.com/novanet/meetups/blob/master/20190314/content/fargerike.png)
+![fargerike](https://github.com/novanet/fagkvelder/blob/master/20190314/content/fargerike.png)
 
 #### Personalisere - Thon
 
 Tilbyr personaliserte tilleg til et hotellopphold. F.eks. stryking av skjorter hvis rom bookes til en person midt i uken.
 
-![thon](https://github.com/novanet/meetups/blob/master/20190314/content/thon.png)
+![thon](https://github.com/novanet/fagkvelder/blob/master/20190314/content/thon.png)
 
 #### Forenkle - Motex
 
 - Skanneapp for å forenkle en prosess
 - Tilbud om hjelp/kontakt eller leasing i nettbutikken for å konvertere til salg senere
 
-![motex](https://github.com/novanet/meetups/blob/master/20190314/content/motex.png)
+![motex](https://github.com/novanet/fagkvelder/blob/master/20190314/content/motex.png)
