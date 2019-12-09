@@ -1,0 +1,16 @@
+---
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  labels:
+    expose: external-httpsecure
+  name: superduperwebapp
+spec:
+  rules:
+  - host: superduperwebapp.dev.rikstv.no
+    http:
+      paths:
+      - backend:
+          serviceName: superduperwebapp
+          servicePort: http
+        path: /

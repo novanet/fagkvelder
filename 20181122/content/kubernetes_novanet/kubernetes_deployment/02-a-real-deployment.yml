@@ -1,0 +1,37 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: superduperwebapp
+spec:
+  selector:
+    matchLabels:
+      app: superduperwebapp
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: superduperwebapp
+    spec:
+      containers:
+      - name: superduperwebapp
+        image: trondhindenes/superduperwebapp:v2
+        env:
+        - name: ASPNETCORE_URLS
+          value: http://0.0.0.0:5000
+        livenessProbe:
+          httpGet:
+            path: /api/healthz
+            port: 5000
+            httpHeaders:
+              - name: Host
+                value: KubernetesLivenessProbe
+          initialDelaySeconds: 15
+        readinessProbe:
+          httpGet:
+            path: /api/healthz
+            port: 5000
+            httpHeaders:
+              - name: Host
+                value: KubernetesLivenessProbe
+          initialDelaySeconds: 15

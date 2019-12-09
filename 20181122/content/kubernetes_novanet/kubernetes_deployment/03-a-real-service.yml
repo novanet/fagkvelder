@@ -1,0 +1,14 @@
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: superduperwebapp
+spec:
+  selector:
+    app: superduperwebapp
+  type: NodePort #we don't really need this when using Ingresses
+  ports:
+  - name: http
+    protocol: TCP
+    port: 5000
+    targetPort: 5000

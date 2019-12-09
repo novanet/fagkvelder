@@ -1,0 +1,27 @@
+# Fagkvelder
+
+Oppsummering, presentasjoner og annet fra fagkvelder
+
+### [28.11.2019](/20191128/README.md) - NRK Valgresultater og Dolittle
+
+### [06.11.2019](/20191106/README.md) - Kubernetes hos Thon og Pulumi
+
+### [24.10.2019](/20191024/README.md) - Docker og React Hooks
+
+### [15.05.2019](/20190515/README.md) - Unity-intro og test av arkademaskin
+
+### [25.04.2019](/20190425/README.md) - Azure Functions Workshop & Azure Durable Functions
+
+### [02.04.2019](/20190402/README.md) - By Novanet: Del hva du jobber med
+
+### [31.01.2019](/20190314/README.md) - Innovasjon i DNB og retail
+
+### [31.01.2019](/20190131/README.md) - NRK og Arkademaskin
+
+### [22.11.2018](/20181122/README.md) - Kubernetes
+
+### [30.10.2018](/20181030/README.md) - Vue.js
+
+### [12.10.2018](/20181012/README.md) - Event storming
+
+### [19.09.2018](/20180919/README.md) - IBM Watson

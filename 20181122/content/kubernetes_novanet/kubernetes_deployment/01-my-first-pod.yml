@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: superduperwebapp-pod
+  labels:
+    app: superduperwebapp
+spec:
+  containers:
+  - name: superduperwebapp
+    image: trondhindenes/superduperwebapp:v1
+    imagePullPolicy: IfNotPresent
