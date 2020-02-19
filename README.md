@@ -2,7 +2,9 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
-### [28.11.2019](/20191128/README.md) - NRK Valgresultater og Dolittle
+### [18.02.2020](/20200218/README.md) - NUnit, Open Source og ytelse hos Yr
+
+### [29.01.2020](/20200129/README.md) - Optin Bank og hendelsesdrevet mikrotjenestearkitekur
 
 ### [06.11.2019](/20191106/README.md) - Kubernetes hos Thon og Pulumi
 
