@@ -15,4 +15,5 @@ Så viste Terje oss hvordan vi kan bidra til NUnit eller andre open source prosj
 
 Terje spekulerte også i om Microsoft kom til å fortsette utvikling av både Github og Azure Devops, og så for seg at Github kanskje ble satset på videre.
 
+## Når millisekundene teller (hos Yr)
 ![Dmitry](https://github.com/novanet/fagkvelder/blob/master/20200218/content/IMG_2551.JPG)
