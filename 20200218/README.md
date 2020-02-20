@@ -21,7 +21,7 @@ Terje snakket også om sammenhengen mellom Github og Azure Devops, og så for se
 
 [Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/20200218/content/DmitryYr.pdf)
 
-Dmitry fortalte om hvordan de jobber med ytelse hos Yr. Dette er en presentasjon han skal holde på meetup den 5. mars. Yr har rundt 3 000 000 requests hver dag, og må gjøre det de kan for å få god nok ytelse ut av API'ene sine.
+Dmitry fortalte om hvordan de jobber med ytelse hos Yr. Dette er en presentasjon han skal holde på meetup den 5. mars. Yr har rundt 3 000 000 unike brukere hver dag, og må gjøre det de kan for å få god nok ytelse ut av API'ene sine.
 
 Dmitry fikk derfor mulighet til å jobbe med 3 hypoteser:
 
@@ -37,4 +37,4 @@ Tallene beviste at Linux presterer bedre enn Windows for å hente de samme datae
 
 Videre så Dmitry på målinger mot diverse database-løsninger, og ytelsesutfordringer man kan få i kode med EntityFramework, Linq og Dapper.
 
-Tilslutt så han på løsningsarkitektur for forbedret ytelse.
+Tilslutt så han på løsningsarkitektur som gir utfordringer når det gjelder ytelse.
