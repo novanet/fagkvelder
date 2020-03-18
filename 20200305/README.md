@@ -8,7 +8,7 @@
 
 ![Hallstein](https://github.com/novanet/fagkvelder/blob/master/20200305/content/2020-19.jpg)
 
-Hvordan klarte NRK å feilfritt levere valgresultater på valgnatten? Hva må man tenke på når hele Norge skal inn på nettsiden nøyaktig kl. 21:00, og man kun får én mulighet til å klare det? Hallstein forteller om hvordan det var å bygge et API som så mange ble berørt av, med en absolutt tidsfrist og ufravikelige ytelseskrav.
+Hvordan klarte NRK å levere valgresultatene feilfritt på valgnatten? Hva må man tenke på når hele Norge skal inn på nettsiden nøyaktig kl. 21:00, og man kun får én mulighet til å klare det? Hallstein forteller om hvordan det var å bygge et API som så mange ble berørt av, med en absolutt tidsfrist og ufravikelige ytelseskrav.
 
 [Lenke til presentasjonen](https://github.com/novanet/fagkvelder/tree/master/20200305/content/Valgresultater.pdf)
 
