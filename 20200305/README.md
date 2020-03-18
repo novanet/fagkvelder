@@ -23,7 +23,12 @@ Hva kreves av Yr for å levere værdata for hele verden? Dmitry ser på effektiv
 
 ## Hjelp, meldingene hoper seg opp!
 
+![Dmitry](https://github.com/novanet/fagkvelder/blob/master/20200305/content/2020-2.jpg)
+
 Når det å lage dagens fakturaer tar 50 timer fordi meldinger prosesseres for tregt må noe gjøres! Svein Rune deler sine erfaringer om hvordan de hos IF forsikring gikk frem for å feilsøke og håndtere denne utfordringen. Sentrale stikkord er NServiceBus, memory dumps, DI og HTTPClient.
+
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/tree/master/20200305/content/PerformanceInvoicing.pdf)
+
 
 ## Caching og loadtesting med K6
 
