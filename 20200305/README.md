@@ -19,6 +19,8 @@ Hvordan klarte NRK å feilfritt levere valgresultater på valgnatten? Hva må ma
 
 Hva kreves av Yr for å levere værdata for hele verden? Dmitry ser på effektivisering av SQL på databasenivå, og optimalisering av ASP.NET Web API for best mulig responstid.
 
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/tree/master/20200305/content/MillisekundeneTeller.pdf)
+
 ## Hjelp, meldingene hoper seg opp!
 
 Når det å lage dagens fakturaer tar 50 timer fordi meldinger prosesseres for tregt må noe gjøres! Svein Rune deler sine erfaringer om hvordan de hos IF forsikring gikk frem for å feilsøke og håndtere denne utfordringen. Sentrale stikkord er NServiceBus, memory dumps, DI og HTTPClient.
