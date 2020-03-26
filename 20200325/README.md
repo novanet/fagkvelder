@@ -1,0 +1,29 @@
+# Online fagkveld om pågående kundeprosjekter
+
+For første gang har vi holdt fagkvelden vår online. Grunnet Covid-19 viruset. Vi startet ambisiøst med å kjøre Teams Live Meeting, men dette ble fort avsluttet da ikke alle kom inn i møtet. Vi fant vi ut at å være "Producer" (den som styrer hvilken skjerm/lyd som vises) og "Presenter" (den som presenterer) samtidig ikke fungerer så bra. I tillegg til at det ikke er like enkelt med spørsmål og annnen interaksjon underveis i presentasjonen (da den vises med 20 sekunders forsinkelse).
+
+![Meetup](https://github.com/novanet/fagkvelder/blob/master/20200305/content/fagkveld25032020.png)
+
+## Lars Alexander om kundeprosjekter
+
+Lars Alexander fortalte om to kundeprosjekter som er helt i oppstarten.
+
+### Omskriving av monolitt
+
+Det ene prosjektet dreier seg om en omfattende omskriving av en  applikasjon basert på Windows Forms (og noe VB6). Applikasjonen er utviklet over mange år, og har avhengigheter på kryss og tvers av komponentene. Den kan beskrives som en "single process monolith", som vi lærte om på workshop'en vår med Sam Newman i fjor.
+
+Vi har foreslått å skrive om denne modul for modul, og tilgjengeliggjøre modulene for brukerne tidlig i utviklingsprosessen. Den eksisterende applikasjonen vil kjøre paralellt, slik at brukerne kan velge å bruke ny eller gammel løsning. På denne måten får brukerne verdi tidlig. F.eks. ved at de får funksjonalitet tilgjengelig på nett fremfor via VPN og desktop som måtte brukes tidligere. I tillegg får vi reell brukertesting og feedback tidlig i prosessen, samt validert at foreslått løsningsarkitektur fungerer.
+
+Løsningsarkitekturen vil basere seg på mikrotjenester og Azure ServiceBus for kommunikasjon mellom tjenestene. Tjenestene utvikles med .NET Core og frontend utvikles med React. Alt driftes i Azure og infrastrukturen der settes opp med Terraform.
+
+### Fra CMS til mikrotjenester
+
+De andre prosjektet som Lars Alexander snakket om er hos et av de store forbundene. Deres tjenester har stortsett vært basert på et CMS og utvidelser og integrasjoner mot dette. Dette ønsker de å gå bort fra og utvikle et sett med API'er som dekker den samme funksjonaliteten.
+
+Kunden har spesifisert flere løsninger som de ønsker over på den nye løsningsarkitekturen, og vi ble enige om å starte med en av de enklere tjenestene de ønsker å tilby via API. Dette for å validere den foreslåtte løsningsarkitekturen, og for å bygge kompetanse og erfaring med denne for de interne ressursene hos kunden.
+
+Som for det første prosjektet så tar vi utgangspunkt i en mikrotjenestearkitektur med Azure ServiceBus for kommunikasjon. Men for denne kunden vil vi i større grad ta i bruk Azure Functions, med ServiceBusTriggers for å ta i mot meldinger fra meldingsbussen, og HttpTriggers for å returnere data. Alt driftes i Azure og infrastrukturen der settes opp med Terraform.
+
+For denne kunden er det mye nytt på .NET Core, Azure, Devops osv. Så her bistår vi med både opplæring og rådgivning på dette.
+
+## Sergey om kundeprosjekt
