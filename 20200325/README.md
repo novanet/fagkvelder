@@ -1,6 +1,6 @@
 # Online fagkveld om pågående kundeprosjekter
 
-For første gang har vi holdt fagkvelden vår online. Grunnet Covid-19 viruset. Vi startet ambisiøst med å kjøre Teams Live Meeting, men dette ble fort avsluttet da ikke alle kom inn i møtet. Vi fant vi ut at å være "Producer" (den som styrer hvilken skjerm/lyd som vises) og "Presenter" (den som presenterer) samtidig ikke fungerer så bra. I tillegg til at det ikke er like enkelt med spørsmål og annnen interaksjon underveis i presentasjonen (da den vises med 20 sekunders forsinkelse). Da gikk vi over på et vanlig Teams-møte. Men der ble det problemer med Sergey sin presentasjon, så vi gikk vidre til en Slack Call. Men det fungerte ikke da det var begrensning på 15 stk... Tilslutt endte vi opp på Zoom, som fungerte utmerket (selv om det er noen betenkligheter rundt [sikkerheten til Zoom](https://securityboulevard.com/2020/03/using-zoom-here-are-the-privacy-issues-you-need-to-be-aware-of/))
+For første gang har vi holdt fagkvelden vår online. Grunnet Covid-19 viruset. Vi startet ambisiøst med å kjøre Teams Live Meeting, men dette ble fort avsluttet da ikke alle kom inn i møtet. Vi fant vi ut at å være "Producer" (den som styrer hvilken skjerm/lyd som vises) og "Presenter" (den som presenterer) samtidig ikke fungerer så bra. I tillegg til at det ikke er like enkelt med spørsmål og annen interaksjon underveis i presentasjonen (da den vises med 20 sekunders forsinkelse). Da gikk vi over på et vanlig Teams-møte. Men der ble det problemer med Sergey sin presentasjon, så vi gikk vidre til en Slack Call. Men det fungerte ikke da det var begrensning på 15 stk... Tilslutt endte vi opp på Zoom, som fungerte utmerket (selv om det er noen betenkligheter rundt [sikkerheten til Zoom](https://securityboulevard.com/2020/03/using-zoom-here-are-the-privacy-issues-you-need-to-be-aware-of/))
 
 ![Meetup](https://github.com/novanet/fagkvelder/blob/master/20200325/content/fagkveld25032020.png)
 
@@ -27,3 +27,14 @@ Som for det første prosjektet så tar vi utgangspunkt i en mikrotjenestearkitek
 For denne kunden er det mye nytt på .NET Core, Azure, Devops osv. Så her bistår vi med både opplæring og rådgivning på dette.
 
 ## Sergey om kundeprosjekt
+
+Sergey fortalte om kundeprosjektet han jobber med.
+
+### 
+
+Sergeys prosjekt ligner de andre prosjektene som er beskrevet, hvor man skal gå fra en monolitt til mikrotjenester. Monolitten hos denne kunden er i større grad distribuert, men hele løsningen må fremdeles deployes samtidig. I tillegg er det mye foretningslogikk i stored procedures og mye annet gøy.
+
+Et av målene med dette prosjektet er å korte ned tiden man brukes på en av de største prosessene hos kunden. Denne prosessen går over 3 dager og krever som regel at en utvikler må innvolveres for å fikse feil eller stans. Kunden ønsker en i stor grad automatisert løsning med noen få kontrollpunkter for å gjøre manuelle sjekker.
+
+Sergey fortalte om utfordringer med eksisterende kodebase og løsninger, og viste oss en del av den nye løsningsarkitekturen. I tillegg viste han noen tips og triks i C# 8.
+
