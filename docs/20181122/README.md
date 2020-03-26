@@ -1,12 +1,12 @@
 # Fagkveld 22.11.2018
 
-[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/20181122/content)
+[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/docs/20181122/content)
 
 ![Kubernetes](https://github.com/novanet/fagkvelder/blob/master/20181122/content/kubernetes.png)
 
 ## Kubernetes hos RiksTV
 
-[Presentasjon](https://github.com/novanet/fagkvelder/tree/master/20181122/content/KubernetesOgSaantNovanet.pdf)
+[Presentasjon](https://github.com/novanet/fagkvelder/tree/master/docs/20181122/content/KubernetesOgSaantNovanet.pdf)
 
 Trond Hindenes fra RiksTV sier at de har holdt på med Kubernetes i cirka 1.5 år, og skal fortelle om reisen de har hatt med Kubernetes. De begynte med å ta i bruk containers, men så etterhvert behovet for å få til en robust deployment av disse.
 
@@ -81,7 +81,7 @@ API/CLI/UI sender til Master, Master sender ordre til noder
 
 Trond viste oss et eksempel-prosjekt hvor pod, deployment, service, ingress var definert
 
-[Se kildekode](https://github.com/novanet/fagkvelder/tree/master/20181122/content/kubernetes_novanet)
+[Se kildekode](https://github.com/novanet/fagkvelder/tree/master/docs/20181122/content/kubernetes_novanet)
 
 - \_pod.yml
   - Beskrivelse av en Pod

@@ -2,11 +2,11 @@
 
 ![Badstue](https://github.com/novanet/fagkvelder/blob/master/20190314/content/badstue.jpg)
 
-[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/20190314/content)
+[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/docs/20190314/content)
 
 ## Innovasjon i DNB - Espen Sande Larsen - DNB
 
-[Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/20190131/content/Fagkveld_januar.pdf)
+[Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/docs/20190131/content/Fagkveld_januar.pdf)
 
 Espen jobber som Innovation Development Specialist i DNB NewTechLab, som er satt sammen av 8 personer med ulik bakgrunn (matematikere, kodere, han selv kalte seg en potet med variert bakgrunn). Teamet jobber superagilt og alle kan kode. Han har jobbet med teknologi i 25 års erfaring. Han droppet ut av skolen og begynte å jobbe da han var 15 år. Karakterer var ikke noe for han. Privat holder han på med å fikse retro datamaskiner og i det siste har han laget en 3D rasterizer i Javascript.
 

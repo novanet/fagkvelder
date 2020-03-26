@@ -1,6 +1,6 @@
 # Fagkveld 12.10.2018
 
-[Alle presentasjoner](https://github.com/novanet/fagkvelder/tree/master/20181012/content)
+[Alle presentasjoner](https://github.com/novanet/fagkvelder/tree/master/docs/20181012/content)
 
 ## NDC 2019
 
@@ -21,7 +21,7 @@ Hvordan trigger disse?
 Er det noen områder som er mer komplekse?
 Hva slags rapporter/views skal komme ut av systemet?
 
-Eksempel ([se presentasjon](https://github.com/novanet/fagkvelder/tree/master/20181012/content/IntroEventstorming.pdf)): Booking av rom på hotell
+Eksempel ([se presentasjon](https://github.com/novanet/fagkvelder/tree/master/docs/20181012/content/IntroEventstorming.pdf)): Booking av rom på hotell
 
 Farger:
 
@@ -50,7 +50,7 @@ Tips:
 
 Case: Cybotron Systems og Chrononaut Brewing
 
-[Link til case](https://github.com/novanet/fagkvelder/tree/master/20181012/content/Chrononaut.pdf)
+[Link til case](https://github.com/novanet/fagkvelder/tree/master/docs/20181012/content/Chrononaut.pdf)
 
 Problem: Sprengt kapasitet for bryggemesteren, ønsker økt grad av automatisering
 

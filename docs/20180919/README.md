@@ -1,6 +1,6 @@
 # Fagkveld 19.09.2018
 
-[Alle presentasjoner](https://github.com/novanet/fagkvelder/tree/master/20180919/content)
+[Alle presentasjoner](https://github.com/novanet/fagkvelder/tree/master/docs/20180919/content)
 
 ## IBM Watson - Harriet Wright
 

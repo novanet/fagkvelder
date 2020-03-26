@@ -1,6 +1,6 @@
 # NRK Valgresultater og Dolittle
 
-[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/20191128/content)
+[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/docs/20191128/content)
 
 ### NRK Valgresultater
 
@@ -41,7 +41,7 @@ API-et fungerte utmerket. Fra kl. 21:00 – 00:30:
 
 ### Dolittle
 
-[Presentasjon](https://github.com/novanet/fagkvelder/tree/master/20191128/content/Dolittle.pdf)
+[Presentasjon](https://github.com/novanet/fagkvelder/tree/master/docs/20191128/content/Dolittle.pdf)
 
 ![Dolittle](https://github.com/novanet/fagkvelder/blob/master/20191128/content/dolittle.png)
 

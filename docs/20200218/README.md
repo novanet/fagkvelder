@@ -1,6 +1,6 @@
 # NUnit, Open Source og ytelse hos Yr
 
-[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/20200218/content)
+[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/docs/20200218/content)
 
 ## NUnit og Open Source
 ![Terje Sandstrøm](https://github.com/novanet/fagkvelder/blob/master/20200218/content/IMG_2531.JPG)
@@ -19,7 +19,7 @@ Terje snakket også om sammenhengen mellom Github og Azure Devops, og så for se
 
 ![Dmitry](https://github.com/novanet/fagkvelder/blob/master/20200218/content/IMG_2551.JPG)
 
-[Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/20200218/content/DmitryYr.pdf)
+[Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/docs/20200218/content/DmitryYr.pdf)
 
 Dmitry fortalte om hvordan de jobber med ytelse hos Yr. Dette er en presentasjon han skal holde på meetup den 5. mars. Yr har rundt 3 000 000 unike brukere hver dag, og må gjøre det de kan for å få god nok ytelse ut av API'ene sine.
 

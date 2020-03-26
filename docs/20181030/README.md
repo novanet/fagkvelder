@@ -1,6 +1,6 @@
 # Fagkveld 30.10.2018
 
-[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/20181030/content)
+[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/docs/20181030/content)
 
 ![Vue.js](https://github.com/novanet/fagkvelder/blob/master/20181030/content/vue.png)
 
