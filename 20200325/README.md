@@ -2,7 +2,7 @@
 
 For første gang har vi holdt fagkvelden vår online. Grunnet Covid-19 viruset. Vi startet ambisiøst med å kjøre Teams Live Meeting, men dette ble fort avsluttet da ikke alle kom inn i møtet. Vi fant vi ut at å være "Producer" (den som styrer hvilken skjerm/lyd som vises) og "Presenter" (den som presenterer) samtidig ikke fungerer så bra. I tillegg til at det ikke er like enkelt med spørsmål og annnen interaksjon underveis i presentasjonen (da den vises med 20 sekunders forsinkelse).
 
-![Meetup](https://github.com/novanet/fagkvelder/blob/master/20200305/content/fagkveld25032020.png)
+![Meetup](https://github.com/novanet/fagkvelder/blob/master/20200325/content/fagkveld25032020.png)
 
 ## Lars Alexander om kundeprosjekter
 
