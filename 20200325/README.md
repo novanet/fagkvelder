@@ -30,11 +30,10 @@ For denne kunden er det mye nytt på .NET Core, Azure, Devops osv. Så her bist�
 
 Sergey fortalte om kundeprosjektet han jobber med.
 
-### 
+### Forbedret prosess med mikrotjenester
 
-Sergeys prosjekt ligner de andre prosjektene som er beskrevet, hvor man skal gå fra en monolitt til mikrotjenester. Monolitten hos denne kunden er i større grad distribuert, men hele løsningen må fremdeles deployes samtidig. I tillegg er det mye foretningslogikk i stored procedures og mye annet gøy.
+Sergeys prosjekt ligner de andre prosjektene som er beskrevet, hvor man skal gå fra en monolitt til mikrotjenester. Monolitten hos denne kunden er i større grad distribuert, og hele løsningen måtte deployes samtidig med en egenutviklet løsning for bygg og deploy. I tillegg er det mye foretningslogikk i stored procedures og mye annet gøy.
 
 Et av målene med dette prosjektet er å korte ned tiden man brukes på en av de største prosessene hos kunden. Denne prosessen går over 3 dager og krever som regel at en utvikler må innvolveres for å fikse feil eller stans. Kunden ønsker en i stor grad automatisert løsning med noen få kontrollpunkter for å gjøre manuelle sjekker.
 
 Sergey fortalte om utfordringer med eksisterende kodebase og løsninger, og viste oss en del av den nye løsningsarkitekturen. I tillegg viste han noen tips og triks i C# 8.
-
