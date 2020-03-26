@@ -60,11 +60,11 @@ Vi delte oss i to grupper som skulle modellere bryggeprossesen.
 
 ### Gruppe 1
 
-![Bilde av gruppe 1](https://github.com/novanet/fagkvelder/blob/master/20181012/content/IMG_1565.jpeg)
+![Bilde av gruppe 1](https://github.com/novanet/fagkvelder/blob/master/docs/20181012/content/IMG_1565.jpeg)
 
 ### Gruppe 2
 
-![Bilde av gruppe 2](https://github.com/novanet/fagkvelder/blob/master/20181012/content/IMG_1571.jpeg)
+![Bilde av gruppe 2](https://github.com/novanet/fagkvelder/blob/master/docs/20181012/content/IMG_1571.jpeg)
 
 ### Konklusjon
 
@@ -82,4 +82,4 @@ Det kommer mer om Event Storming på DDD-kurset i november!
 
 Fagkvelden ble avsluttet med brettspill! Takk til Thomas som hadde med masse spill :)
 
-![Bilde av brettspill](https://github.com/novanet/fagkvelder/blob/master/20181012/content/IMG_1572.jpeg)
+![Bilde av brettspill](https://github.com/novanet/fagkvelder/blob/master/docs/20181012/content/IMG_1572.jpeg)

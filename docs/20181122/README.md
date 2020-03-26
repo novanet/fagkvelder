@@ -2,7 +2,7 @@
 
 [Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/docs/20181122/content)
 
-![Kubernetes](https://github.com/novanet/fagkvelder/blob/master/20181122/content/kubernetes.png)
+![Kubernetes](https://github.com/novanet/fagkvelder/blob/master/docs/20181122/content/kubernetes.png)
 
 ## Kubernetes hos RiksTV
 
@@ -56,7 +56,7 @@ Et problem man har hatt lenge når man deploye applikasjoner er hvilket nivå av
 
 ### Constructs
 
-![Kubernetes Architecture picture](https://github.com/novanet/fagkvelder/blob/master/20181122/content/achitecture.png)
+![Kubernetes Architecture picture](https://github.com/novanet/fagkvelder/blob/master/docs/20181122/content/achitecture.png)
 
 API/CLI/UI sender til Master, Master sender ordre til noder
 
@@ -131,6 +131,6 @@ Trond gjorde en enkel kodeendring, endret versjonsnummer i YML-filene og viste a
 
 Presentasjon og demo holdt av [Petter Karlsrud fra Novacare](https://www.novacare.no/om-oss/)
 
-![Petter Karlsud i aksjon](https://github.com/novanet/fagkvelder/blob/master/20181122/content/AzureDevopsPetter.jpg)
+![Petter Karlsud i aksjon](https://github.com/novanet/fagkvelder/blob/master/docs/20181122/content/AzureDevopsPetter.jpg)
 
 Petter holdt en kort, praktisk demo av hvordan deploye docker-containere i Azure Devops til Kubernetes i tre steg: **autentisering**, **bygg** og **oppdatering av cluster**. Last ned presentasjon [her](https://docs.google.com/presentation/d/1tuerlc0Qu9O_nmiZ479tzdE3rTOlngKe4rT1Hf5tBnQ/edit?usp=sharing).

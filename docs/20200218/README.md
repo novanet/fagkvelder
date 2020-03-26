@@ -3,7 +3,7 @@
 [Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/docs/20200218/content)
 
 ## NUnit og Open Source
-![Terje Sandstrøm](https://github.com/novanet/fagkvelder/blob/master/20200218/content/IMG_2531.JPG)
+![Terje Sandstrøm](https://github.com/novanet/fagkvelder/blob/master/docs/20200218/content/IMG_2531.JPG)
 
 Terje Sandstrøm fra Solidify er Microsoft Visual Studio and Development Technologies MVP og del av core-teamet til NUnit.
 
@@ -17,7 +17,7 @@ Terje snakket også om sammenhengen mellom Github og Azure Devops, og så for se
 
 ## Når millisekundene teller (hos Yr)
 
-![Dmitry](https://github.com/novanet/fagkvelder/blob/master/20200218/content/IMG_2551.JPG)
+![Dmitry](https://github.com/novanet/fagkvelder/blob/master/docs/20200218/content/IMG_2551.JPG)
 
 [Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/docs/20200218/content/DmitryYr.pdf)
 

@@ -52,7 +52,7 @@ Videre viste Harriet flere eksempler på hvordan IBM Watson brukes:
 
 Viktigste er at vi bruker AI-teknologien i et partnerskap med mennesket.
 
-[Se presentasjon](https://github.com/novanet/fagkvelder/blob/master/20180919/content/IBMWatson.pdf)
+[Se presentasjon](https://github.com/novanet/fagkvelder/blob/master/docs/20180919/content/IBMWatson.pdf)
 
 Link til presentasjonen;
 [https://ibm.box.com/s/cqj7zk4qoouzdb9g3pyet72m9mgpybz7](https://ibm.box.com/s/cqj7zk4qoouzdb9g3pyet72m9mgpybz7)

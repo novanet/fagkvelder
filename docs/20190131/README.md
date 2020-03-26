@@ -1,12 +1,12 @@
 # Fagkveld 19.01.2018
 
-![Arkademaskin](https://github.com/novanet/fagkvelder/blob/master/20190131/content/arcadegames.gif)
+![Arkademaskin](https://github.com/novanet/fagkvelder/blob/master/docs/20190131/content/arcadegames.gif)
 
 [Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/docs/20190131/content)
 
 ## Oppstart NRK - Hallstein
 
-![NRK](https://github.com/novanet/fagkvelder/blob/master/20190131/content/Logo_NRK.gif)
+![NRK](https://github.com/novanet/fagkvelder/blob/master/docs/20190131/content/Logo_NRK.gif)
 
 [Lenke til presentasjon](https://github.com/novanet/fagkvelder/tree/master/docs/20190131/content/nrk.pdf)
 

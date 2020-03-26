@@ -4,7 +4,7 @@
 
 ### NRK Valgresultater
 
-![Fredrik og Hallstein](https://github.com/novanet/fagkvelder/blob/master/20191128/content/solvang.png)
+![Fredrik og Hallstein](https://github.com/novanet/fagkvelder/blob/master/docs/20191128/content/solvang.png)
 
 Hallstein fortalte om hvordan oppdraget hans for NRK om å levere valgresultater har gått.
 
@@ -43,7 +43,7 @@ API-et fungerte utmerket. Fra kl. 21:00 – 00:30:
 
 [Presentasjon](https://github.com/novanet/fagkvelder/tree/master/docs/20191128/content/Dolittle.pdf)
 
-![Dolittle](https://github.com/novanet/fagkvelder/blob/master/20191128/content/dolittle.png)
+![Dolittle](https://github.com/novanet/fagkvelder/blob/master/docs/20191128/content/dolittle.png)
 
 Einar Ingebritsen kom på besøk for å fortelle om Dolittle og deres produkt.
 
@@ -78,4 +78,4 @@ Diskusjon og spørsmål i ettekant:
 - Fordel med rammeverk for mikrotjenester i prosjekter hvor utviklerne har forkjellig erfaring
 - Fordel med rammeverk for å sørge for at implementasjon av events, handlere, kommunikasjon mellom tjenester, event sourcing osv. bli likt overalt
 
-![Unleash Dolittle](https://github.com/novanet/fagkvelder/blob/master/20191128/content/unleash-dolittle.png)
+![Unleash Dolittle](https://github.com/novanet/fagkvelder/blob/master/docs/20191128/content/unleash-dolittle.png)

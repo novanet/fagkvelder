@@ -2,7 +2,7 @@
 
 [Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/docs/20181030/content)
 
-![Vue.js](https://github.com/novanet/fagkvelder/blob/master/20181030/content/vue.png)
+![Vue.js](https://github.com/novanet/fagkvelder/blob/master/docs/20181030/content/vue.png)
 
 <i>Notatene er hentet fra slidene til Anders</i>
 
@@ -43,7 +43,7 @@ Siden vi snakker om de tre store, hvem står bak Vue?
 
 Så hvilket konsern står bak vue.js? Han her ->
 
-![Bilde av Evan](https://github.com/novanet/fagkvelder/blob/master/20181030/content/evan.png)
+![Bilde av Evan](https://github.com/novanet/fagkvelder/blob/master/docs/20181030/content/evan.png)
 
 #### Evan You
 
@@ -100,11 +100,11 @@ Her vises biblioteker som er skrevet av økosystemet med adoptert til å bli off
 - Må ha en f.eks. div (med id=app) i DOM, hvor appen kan injectes
 - Viste at man kan legge Vue instansen i en variabel, og bruke variabel i devtools, f.eks. å vise eller endre datamodellen
 
-![Bilde av brettspill](https://github.com/novanet/fagkvelder/blob/master/20181030/content/working.png)
+![Bilde av brettspill](https://github.com/novanet/fagkvelder/blob/master/docs/20181030/content/working.png)
 
 ## Oppgave
 
-[Lenke til cheat sheet](https://github.com/novanet/fagkvelder/blob/master/20181030/content/Vue-Essentials-Cheat-Sheet.pdf)
+[Lenke til cheat sheet](https://github.com/novanet/fagkvelder/blob/master/docs/20181030/content/Vue-Essentials-Cheat-Sheet.pdf)
 
 Alle deltok på en oppgave som Anders hadde laget:
 
