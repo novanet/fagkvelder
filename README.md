@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [15.04.2020](/docs/20200416/README.md) - AAD Pod Identity og CosmosDB free
+
 ### [25.03.2020](/docs/20200325/README.md) - Online fagkveld om pågående kundeprosjekter
 
 ### [15.03.2020](/docs/20200305/README.md) - Meetup om ytelse i .NET
