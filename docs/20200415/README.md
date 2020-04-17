@@ -8,7 +8,7 @@ Ny heldigital fagkveld med Olav og Johan som snakket om AAD Pod Identity og grat
 
 [Lenke til presentasjonen](https://github.com/novanet/fagkvelder/tree/master/docs/20200415/content/AADPodIdentity.pdf)
 
-Olav fortalte om hvordan man kan sørge for at pods i et Azure Kubernetes Service cluster kan bli autentisert ved hjelp av en Managed Identity. For å få tilgang til f.eks. Azure Key Vault. Dette krever at både en Managed Identity Controller og Node Managed Identity installeres i clusteret, samt at pods som skal bruke Managed Identity får samme label.
+Olav fortalte om hvordan man kan sørge for at pods i et Azure Kubernetes Service cluster kan bli autentisert ved hjelp av en Managed Identity. For å få tilgang til f.eks. Azure Key Vault. Dette krever at både en Managed Identity Controller og Node Managed Identity installeres i clusteret, samt litt enkel konfigurasjon.
 
 ## Azure CosmosDB for free
 
