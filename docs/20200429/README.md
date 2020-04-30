@@ -6,7 +6,7 @@ Enda en heldigital fagkveld med Olav som snakker om AKS Keyvault Flexvol integra
 
 ## AKS Keyvault Flexvol integrasjon
 
-[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/tree/master/docs/20200429/content/missing.pdf)
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/tree/master/docs/20200429/content/KeyvaultFlexvol.pdf)
 
 Olav fulgte opp siste fagkvelds presentasjon om AAD Pod Idenity med å snakke om Azure Kubernetes Service FlexVolume. FlexVol gjør det mulig å hente konfigurasjon i Kubernetes uten å knytte seg til en spesifikk skyleverandør. F.eks. hvis man bruke Azure Keyvault må man bruke egne Azure Keyvault biblioteker i koden man skriver, dvs. Microsoft.Extensions.Configuration.AzureKeyVault. Hvis man vil bytte til fra Kubernetes i Azure til Kubernetes i AWS, må man skrive om koden.
 
