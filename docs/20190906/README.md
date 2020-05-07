@@ -2,7 +2,7 @@
 
 ![Meetup](https://github.com/novanet/fagkvelder/blob/master/docs/20190906/content/meetup.jpg)
 
-[Lenke til innhold](https://github.com/novanet/fagkvelder/tree/master/docs/20190906/content)
+[Lenke til innhold](https://github.com/novanet/fagkvelder/blob/master/docs/20190906/content/)
 
 ## Terraform
 
@@ -10,7 +10,7 @@
 
 ...
 
-[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/tree/master/docs/20190906/content/terraform.pdf)
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20190906/content/terrraform.pdf)
 
 ## Azure Managment API
 
@@ -18,7 +18,7 @@
 
 ...
 
-[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/tree/master/docs/20190906/content/Azurerestapipresentation.pdf)
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20190906/content/Azurerestapipresentation.pdf)
 
 ## Azure Devops Multistage Deployments
 
@@ -26,7 +26,7 @@
 
 ...
 
-[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/tree/master/docs/20190906/content/multistage.pdf)
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20190906/content/multistage.pdf)
 
 
 ## Tracing med Open Tracing og Jaeger
@@ -35,5 +35,5 @@
 
 ...
 
-[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/tree/master/docs/20190906/content/OpenTracing.pdf)
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20190906/content/OpenTracing.pdf)
 
