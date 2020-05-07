@@ -18,7 +18,7 @@ Oppsummering, presentasjoner og annet fra fagkvelder
 
 ### [24.10.2019](/docs/20191024/README.md) - Docker og React Hooks
 
-### [24.10.2019](/docs/20190906/README.md) - Meetup om automatisering av infrastruktur og deployment til Azure
+### [06.09.2019](/docs/20190906/README.md) - Meetup om automatisering av infrastruktur og deployment til Azure
 
 ### [15.05.2019](/docs/20190515/README.md) - Unity-intro og test av arkademaskin
 
