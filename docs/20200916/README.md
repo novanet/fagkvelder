@@ -6,7 +6,7 @@ Ny heldigital fagkveld etter en sommerpause. Tor Kristen snakket om AKKA.NET og 
 
 ## AKKA.NET
 
-[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/tree/master/docs/20200916/content/presentasjon.pdf)
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/tree/master/docs/20200916/content/akka.pdf)
 
 Tor Kristen gav oss en gjennomgang av AKKA.NET med litt forklaring og historikk for Actor-modellen, live-koding av en AKKA.NET løsning, samt kodeeksempler og demo av AKKA.NET.
 
