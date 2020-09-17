@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [16.09.2020](/docs/20200916/README.md) - AKKA.NET og Show Me Your Solution: Brødrene Dahl
+
 ### [29.04.2020](/docs/20200429/README.md) - AKS Keyvault Flexvol integrasjon og Kahoot
 
 ### [15.04.2020](/docs/20200415/README.md) - AAD Pod Identity og CosmosDB free
