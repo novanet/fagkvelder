@@ -1,6 +1,12 @@
 # AKKA.NET og Show Me Your Solution: Brødrene Dahl
 
-Ny heldigital fagkveld etter en sommerpause. Tor Kristen snakket om AKKA.NET og Lars S. fortalte om en løsning han har satt opp hos Brødrene Dahl i vårt nye faste innslag på fagkveldene "Show med your Solution".
+Så var det klart for en ny heldigital fagkveld etter en liten sommerpause. Tor Kristen startet kvelden med å snakket om AKKA.NET, og Lars S. fortalte om en løsning han har satt opp hos Brødrene Dahl i vårt nye faste innslag på fagkveldene "Show med your Solution". Hensikten med konseptet:
+- Bli kjent med hverandres kompetanse
+- Lære av hverandre
+- Hjelpe hverandre
+- Interessant å se kode
+- Mange mulige løsninger
+- Grunnlag for positiv diskusjon
 
 ![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20200916/content/fagkveld.jpg)
 
