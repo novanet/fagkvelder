@@ -1,6 +1,6 @@
-# AKKA.NET og Show Me Your Solution: Brødrene Dahl
+# AKKA.NET og Show Me Your Repository: Brødrene Dahl
 
-Så var det klart for en ny heldigital fagkveld etter en liten sommerpause. Tor Kristen startet kvelden med å snakket om AKKA.NET, og Lars S. fortalte om en løsning han har satt opp hos Brødrene Dahl i vårt nye faste innslag på fagkveldene "Show med your Solution". Hensikten med konseptet:
+Så var det klart for en ny heldigital fagkveld etter en liten sommerpause. Tor Kristen startet kvelden med å snakket om AKKA.NET, og Lars S. fortalte om en løsning han har satt opp hos Brødrene Dahl i vårt nye faste innslag på fagkveldene "Show med your Repository". Hensikten med konseptet:
 - Bli kjent med hverandres kompetanse
 - Lære av hverandre
 - Hjelpe hverandre
@@ -16,6 +16,6 @@ Så var det klart for en ny heldigital fagkveld etter en liten sommerpause. Tor 
 
 Tor Kristen gav oss en gjennomgang av AKKA.NET med litt forklaring og historikk for Actor-modellen, live-koding av en AKKA.NET løsning, samt kodeeksempler og demo av AKKA.NET.
 
-## SMYS: Brødrene Dahl løsning
+## Show Me Your Repository: Brødrene Dahl løsning
 
 Lars Sørensen fortale om en løsning vi har satt opp hos Brødrene Dahl. Han vise litt rundt den tekniske arkitekturen og fortalte om erfaringer med en del tjenester i Azure med hovedvekt på Azure API Managment og Azure Data Factory.

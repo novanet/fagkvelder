@@ -2,7 +2,9 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
-### [16.09.2020](/docs/20200916/README.md) - AKKA.NET og Show Me Your Solution: Brødrene Dahl
+### [06.10.2020](/docs/20201006/README.md) -  ice og Show Me Your Repository: OptinBank
+
+### [16.09.2020](/docs/20200916/README.md) - AKKA.NET og Show Me Your Repository: Brødrene Dahl
 
 ### [29.04.2020](/docs/20200429/README.md) - AKS Keyvault Flexvol integrasjon og Kahoot
 
