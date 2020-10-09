@@ -2,7 +2,7 @@
 
 Ny heldigital fagkveld. Anders fortalte om ice og Nils Georg om et repository fra OptinBank sine løsninger.
 
-![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20200916/content/fagkveld.png)
+![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20201006/content/fagkveld.png)
 
 ## ice
 
