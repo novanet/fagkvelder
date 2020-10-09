@@ -10,7 +10,7 @@ Anders er team lead hos ice. Han fortalte om reisen ice nå tar fra leveransebas
 
 ## Show Me Your Repository: OptinBank
 
-Nils Georg fortale om et repository hos OptinBank. Han viste hvordan repository'et så ut etter 2 uker i utvikling, 1 år i utvikling og hvordan det så ut nå. Dette viste hvordan et repository kan utvikle seg i feil retning. Dette skyldtes noen arktitekturvalg i begynnelsen, at utviklere forsvant ut og nye kom inn og at man har prøvd å løst for mange ting i en løsning. Det var interessant å se hvordan kode og struktur i repository'et hadde endret seg i løpet av dets levetid.
+Nils Georg fortale om et repository hos OptinBank. Han viste hvordan repository'et så ut etter 2 uker i utvikling, 1 år i utvikling og hvordan det ser ut nå. Dette viste hvordan et repository kan utvikle seg i feil retning. Dette skyldtes noen arktitekturvalg i begynnelsen, at utviklere forsvant ut og nye kom inn og at man har prøvd å løst for mange ting i en løsning. Det var interessant å se hvordan kode og struktur i repository'et hadde endret seg i løpet av dets levetid.
 
 ## Musikkquiz
 
