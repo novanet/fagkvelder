@@ -17,3 +17,5 @@ Nils Georg fortale om et repository hos OptinBank. Han viste hvordan repository'
 ![Musikkquiz](https://github.com/novanet/fagkvelder/blob/master/docs/20201006/content/quiz.png)
 
 Vi avsluttet kvelden med en kreativ musikkquiz!
+
+[Her er quizen](https://github.com/novanet/fagkvelder/blob/master/docs/20201006/content/QuizMusikk.pptx)
