@@ -24,7 +24,7 @@ Leif avsluttet med kjøre en demo på dette, med utgangspunkt i en enkel bloggap
 
 ![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20201029/content/image.png)
 
-[Se presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201029/content/GraphQL_Fagkveld.pptx)
+[Se presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201029/content/GraphQL_Fagkveld.pdf)
 
 ## Show Me Your Repository: NRK
 
