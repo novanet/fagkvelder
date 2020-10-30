@@ -4,6 +4,8 @@ Vi fortsetter å møtes til digital fagkveld. På programmet: GraphQL og Show me
 
 ## GraphQL
 
+test
+
 Leif startet dagens fagkveld med å gi oss en introduksjon til GraphQL for .NET applikasjoner.
 
 På agendaen:
