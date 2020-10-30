@@ -1,8 +1,6 @@
 # Graph QL og repo fra NRK
 
-Blabla
-
-![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20201029/content/amongus.png)
+Vi fortsetter å møtes til digital fagkveld. På programmet: GraphQL og Show me your repository: NRK
 
 ## GraphQL
 
@@ -20,6 +18,18 @@ GraphQL er et spørrespråk utviklet av Facebook for å tilgjengeliggjøring dat
 
 I GraphQL derimot får man en selvdokumenterende og standardisert måte å tilgjengeliggjøring data på. Dette gjør at apiet kan vokse dynamisk over tid uten å bli uoversiktlig eller uhåndterlig. Siden dette er et spørrespråk kan konsumentene/klientene selv velge ut de eksakte dataene de ønsker, noe som gjør koden mindre kompleks og sparer serverne for unødig last.
 
-
+Leif avsluttet med kjøre en demo på dette, med utgangspunkt i en enkel bloggapplikasjon.
 
 ## Show Me Your Repository: NRK
+
+
+## Among us!
+
+Kvelden ble avsluttet med det populære onlinespillet Among us - samarbeidsspillet hvor man må jobbe sammen for å utføre oppgaver slik at man kan komme seg i sikkerhet.  Sammen med 4-10 andre spillere er man nemlig plassert på en romstasjon. Èn eller flere av spillerne har et mål om å sabotere for denne romstasjonen. Fellesskapet må derfor finne ut hvem som er sabotør og hvem som faktisk spiller på lag! Et morsomt spill som legger opp til samarbeid, og også noen hete diskusjoner.
+
+![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20201029/content/amongus.png)
+
+Fikk du lyst til å teste?
+Steam for PC: https://store.steampowered.com/app/945360/Among_Us/
+App store: https://apps.apple.com/us/app/among-us/id1351168404
+Google play: https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=US
