@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [29.10.2020](/docs/20201029/README.md) -  GraphQL og Show Me Your Repository: NRK
+
 ### [06.10.2020](/docs/20201006/README.md) -  ice og Show Me Your Repository: OptinBank
 
 ### [16.09.2020](/docs/20200916/README.md) - AKKA.NET og Show Me Your Repository: Brødrene Dahl
