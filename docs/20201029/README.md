@@ -20,7 +20,7 @@ I GraphQL derimot får man en selvdokumenterende og standardisert måte å tilgj
 
 Leif avsluttet med kjøre en demo på dette, med utgangspunkt i en enkel bloggapplikasjon.
 
-
+docs/20201029/content/image.png
 
 ## Show Me Your Repository: NRK
 
