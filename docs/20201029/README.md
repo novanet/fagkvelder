@@ -26,6 +26,9 @@ Leif avsluttet med kjøre en demo på dette, med utgangspunkt i en enkel bloggap
 
 ## Show Me Your Repository: NRK
 
+På gårsdagens fagkveld fortalte Ingve mer om et spennende repository hos NRK, et API for radio programsider. Et kult prosjekt som i hovedsak handler om rasjonering og podcast. Ingve snakket litt om konseptet navigering, og viste oss hvordan dette så ut både før og etter dette APIet. Han snakket videre litt om arkitektur og hvordan dette er bygd opp. 
+
+Dette repositoryet er et ASP.NET MVC prosjekt hvor det brukes .NET tools for å lagre ulik informasjon. Det brukes også Azure Devops, med multi-stage pipelines. Bygg og Deploy er også via Azure Devops. 
 
 ## Among us!
 
