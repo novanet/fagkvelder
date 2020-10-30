@@ -30,6 +30,7 @@ Kvelden ble avsluttet med det populære onlinespillet Among us - samarbeidsspill
 ![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20201029/content/amongus.png)
 
 Fikk du lyst til å teste?
+
 Steam for PC: https://store.steampowered.com/app/945360/Among_Us/
 App store: https://apps.apple.com/us/app/among-us/id1351168404
 Google play: https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=US
