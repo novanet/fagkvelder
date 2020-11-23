@@ -35,7 +35,17 @@ Okta oppleves som relativt dyrt, med minium 2$ for hver aktive bruker.
 
 [Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/content/Okta.pdf)
 
-## ASP.NET Identity + Openiddict
+## ASP.NET Identity + OpenIddict
+
+Det er ikke alle prosjekter som krever en avansert Identity Provider. I noen prosjekter trenger man bare enkel beskyttelse av nettsider og API'er. Ved å benytte ASP.NET Identity og OpenIddict kan man oppnå dette.
+
+ASP.NET Identity er en del av ASP.NET Core fra Microsoft. OpenIddict leveres av Kevin Chalet (samt noen contributors til Github-repoet hans).
+
+OpenIddict støtter OpenID Connect (OAuth), og støtter flere "Social IDs" (Facebook, Google osv.).
+
+ASP.NET Identity gir deg et enkelt brukergrensesnitt for å administrere brukere.
+
+ASP.NET Identity og OpenIddict er gratis!
 
 [Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/content/ASPIdentityOpeniddict.pdf)
 
