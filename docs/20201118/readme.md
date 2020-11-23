@@ -25,7 +25,7 @@ I og med at man har tilgang til kildekoden, kan man gjøre de integrasjonene man
 
 Identity Server er gratis nå, men bli betalt fra neste versjon. De tar i hovedsak betalt basert på antall klienter, og man ender fort opp på Enterprise avtalen deres til $12000 i året (mer enn 15 klienter).
 
-[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/content/IdentityServer.pdf)
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/Content/IdentityServer.pdf)
 
 ## Auth0
 
@@ -39,7 +39,7 @@ Auth0 har et svært godt brukergrensesnitt, og har svært god dokumentasjon på 
 
 Auth0 tilbyr en gratis avtale som gir 7000 aktive brukere gratis. Dette dekker veldig mange scenario. Utover det har de dynamisk prising som kan testes på nettsidene deres. Kommer man over $1500 i måneden så må man ta kontakt med selger, og det blir raskt dyrt. Spesielt machine-to-machine autentisering oppleves som dyrt (hos RiksTV).
 
-[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/content/Auth0.pdf)
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/Content/Auth0.pdf)
 
 ## Okta
 
@@ -53,7 +53,7 @@ Okta har et avansert, men oversiktlig brukergrensesnitt. Samt god dokumentasjon 
 
 Okta oppleves som relativt dyrt, med minium 2$ for hver aktive bruker.
 
-[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/content/Okta.pdf)
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/Content/Okta.pdf)
 
 ## ASP.NET Identity + OpenIddict
 
@@ -67,7 +67,7 @@ ASP.NET Identity gir deg et enkelt brukergrensesnitt for å administrere brukere
 
 ASP.NET Identity og OpenIddict er gratis!
 
-[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/content/ASPIdentityOpeniddict.pdf)
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/Content/ASPIdentityOpeniddict.pdf)
 
 ## Azure AD B2C
 
@@ -79,4 +79,4 @@ Azure AD B2C bruker samme brukergrensesnitt for håndtering av brukere og klient
 
 50 000 aktive brukere gratis! Dette gjør det til et svært godt alternativ. Utover de 50 000 koster det $0.00325 per aktive bruker, som også er en god pris.
 
-[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/content/AzureADB2C.pdf)
+[Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/Content/AzureADB2C.pdf)
