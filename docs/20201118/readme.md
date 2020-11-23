@@ -13,7 +13,7 @@ For hver av disse så vi på :
 - Prising
 - Fordeler / ulemper / erfaringer
 
-![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/content/Presentasjon.png)
+![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/Content/Presentasjon.png)
 
 ## Identity Server
 
@@ -87,4 +87,4 @@ Azure AD B2C bruker samme brukergrensesnitt for håndtering av brukere og klient
 
 Vi avsluttet fagkvelden med nok et onlinespill. Denne gangen testet vi Codenames. 
 
-![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/content/Sosialt.png)
+![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/Content/Sosialt.png)
