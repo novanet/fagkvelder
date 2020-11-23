@@ -13,6 +13,8 @@ For hver av disse så vi på :
 - Prising
 - Fordeler / ulemper / erfaringer
 
+![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/content/Presentasjon.png)
+
 ## Identity Server
 
 Identity Server leveres i dag av Dominic Baier og Brook Allen som Open Source. Men blir en betalt løsning levert av Duende.
@@ -80,3 +82,5 @@ Azure AD B2C bruker samme brukergrensesnitt for håndtering av brukere og klient
 50 000 aktive brukere gratis! Dette gjør det til et svært godt alternativ. Utover de 50 000 koster det $0.00325 per aktive bruker, som også er en god pris.
 
 [Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/Content/AzureADB2C.pdf)
+
+# Codenames
