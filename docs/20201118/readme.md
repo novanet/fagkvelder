@@ -29,13 +29,23 @@ Identity Server er gratis nå, men bli betalt fra neste versjon. De tar i hoveds
 
 ## Auth0
 
+Auth0 er et selskap startet i 2013 med kontorer rundt om i verden. De har kunder som Siemens, O'Reilly og Riks TV, og har totalt over 9000 betalende kunder.
+
+Støtter alle de vanligste protokellene, som OAuth, OpenID Connect og SAML.
+
+Auth0 intergrerer mot alle "Social IDs" samt f.eks. LDAP, ADFS, Google G Suite, Azure AD osv. I tillegg har de støtte for f.eks. norsk BankID.
+
+Auth0 har et svært godt brukergrensesnitt, og har svært god dokumentasjon på alt som gjelder Auth0, men også på Identity generellt.
+
+Auth0 tilbyr en gratis avtale som gir 7000 aktive brukere gratis. Dette dekker veldig mange scenario. Utover det har de dynamisk prising som kan testes på nettsidene deres. Kommer man over $1500 i måneden så må man ta kontakt med selger, og det blir raskt dyrt. Spesielt machine-to-machine autentisering oppleves som dyrt (hos RiksTV).
+
 [Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/content/Auth0.pdf)
 
 ## Okta
 
 Okta er et børsnotert selskap fra San Francisco, som ble startet i 2009. De har 8950 betalende kunder på verdensbasis med mange store kunder som Fedex, HP og T-Mobile. Okta kom best ut i Gartner sin vurdering av Identity Providers ("Magic Quadrant")
 
-Okta støtter alle de vanlige protokollene som OAuth og SAML.
+Okta støtter alle de vanlige protokollene som OAuth, OpenID Connect og SAML.
 
 En av Oktas sterkeste kort er alle integrasjonene (6500 stk.) de støtter mot tredjeparts applikasjoner, som gjør at man kan få Single Signon mot disse.
 
