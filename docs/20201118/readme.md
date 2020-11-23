@@ -19,7 +19,7 @@ Identity Server leveres i dag av Dominic Baier og Brook Allen som Open Source. M
 
 Støtter protokollene OAuth og OpenID Connect.
 
-Identity Server er bare noen Nuget-pakker som du legger inn i en .NET-løsning. Resten gjør du selv. F.eks. må du lage brukergrensesnitt og bruker-database for håndtering av brukere og klienter selv. Til gjengjeld så får du full kontroll og mulighet til tilpassninger.
+Identity Server er bare noen Nuget-pakker som du legger inn i en .NET-løsning. Resten gjør du selv. F.eks. må du lage brukergrensesnitt og bruker-database for håndtering av brukere og klienter selv. Til gjengjeld så får du full kontroll og mulighet til tilpassninger, men også ansvar for at løsningen blir satt opp riktig og sikkert.
 
 I og med at man har tilgang til kildekoden, kan man gjøre de integrasjonene man ønsker selv.
 
