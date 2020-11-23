@@ -13,7 +13,17 @@ For hver av disse så vi på :
 - Prising
 - Fordeler / ulemper / erfaringer
 
-## Identity
+## Identity Server
+
+Identity Server leveres i dag av Dominic Baier og Brook Allen som Open Source. Men blir en betalt løsning levert av Duende.
+
+Støtter protokollene OAuth og OpenID Connect.
+
+Identity Server er bare noen Nuget-pakker som du legger inn i en .NET-løsning. Resten gjør du selv. F.eks. må du lage brukergrensesnitt og bruker-database for håndtering av brukere og klienter selv. Til gjengjeld så får du full kontroll og mulighet til tilpassninger.
+
+I og med at man har tilgang til kildekoden, kan man gjøre de integrasjonene man ønsker selv.
+
+Identity Server er gratis nå, men bli betalt fra neste versjon. De tar i hovedsak betalt basert på antall klienter, og man ender fort opp på Enterprise avtalen deres til $12000 i året (mer enn 15 klienter).
 
 [Lenke til presentasjonen](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/content/IdentityServer.pdf)
 
