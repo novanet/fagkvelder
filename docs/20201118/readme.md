@@ -85,6 +85,6 @@ Azure AD B2C bruker samme brukergrensesnitt for håndtering av brukere og klient
 
 # Codenames
 
-Vi avsluttet fagkvelden med nok et onlinespill. Denne gangen testet vi Codenames. 
+Vi avsluttet med spillkveld. Denne gangen testet vi onlinespillet Codenames. 
 
 ![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20201118/Content/Sosialt.png)
