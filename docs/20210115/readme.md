@@ -41,6 +41,7 @@ Og registerer denne i filen nuxt.config.json:
     "bootstrap-vue/nuxt",
     "@nuxt/content"
   ],
+
 ```
 
 Så oppretter man en Content-mappe på root i løsningen. I denne kan man legge til Markdown-filer, hvor man kan skrive [Markdown-syntaks](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for å skrive en bloggpost. Hver av disse filene vil få sin egen route og bli en egen side på nettsiden.
