@@ -1,6 +1,6 @@
 # Fagkveld 15.01.2021
 
-Nytt år, nye fagkvelder! Årets fagkvelder starter digitalt, som vi har blitt vant med. På første fagkveld skal Lars Alexander fortelle om hvordan man enkelt kan sette opp en blogg med Nuxt, og så har vi fått inn Tore Myklebust (selvstendig utvikler) til å demoe Blazor!
+Nytt år, nye fagkvelder! Årets fagkvelder starter digitalt, som vi har blitt vant med. På første fagkveld skal Lars Alexander fortelle om hvordan man enkelt kan sette opp en blogg med Nuxt, og så har vi fått inn Tore Myklebust (selvstendig utvikler) til å demoe Blazor! Vi avsluttet kvelden med Geoguesser!
 
 ![Fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20210115/content/fagkveld3.png)
 
@@ -68,7 +68,7 @@ export default {
 
 Her ser man en funksjon som heter asyncData. Denne brukes til å laste data til siden, før den serveres til brukeren (“Blocks route navigation until it is resolved”). Over ser man at den bruker Content-modulens fetch-funksjon til å hente dataene som ligger i filen med navn som tilsvarer slug-parameteret, som sendes inn via routen (dvs. på https://blog.novanet.no/min-bloggpost, så er min-bloggpost slug'en). Dataene sendes til "nuxt-content"-komponenten til Content-modulen, som viser/"rendrer" dataene på siden
 
-Når dette er gjort kan man kjøre opp løsningen (yarn dev) og gå til routen med navn lik filen som man la i Content-mappen.
+Når dette er gjort kan man kjøre opp løsningen (yarn dev) og gå til routen med navn lik filen som man la i Content-mappen. Da vil man se siden med det man har skrevet i Markdown-filene. Wow!
 
 En fin feature i Content-modulen er at Markdown-filene kan inneholde metadata, dette gjøres slik:
 
@@ -84,12 +84,34 @@ createdAt: 2021-01-15 20:00
 Her er en bloggpost om Nuxt
 ```
 
-Disse metadataene blir tilgjengelig, når man laster inn dataene med fetch():
+Disse metadataene blir tilgjengelig når man laster inn dataene med fetch(), og kan brukes f.eks. når man skal bygge en forside med liste over bloggpostene (pages/index.vue):
 
 ```
-const bloggpostData = await $content("", params.slug).fetch();
+<template>
+  <div class="container">
+    <div>
+      <Logo />
+      <h1 class="title">
+        nuxt-demo
+      </h1>
+    </div>
+    <div v-if="content">
+      <div v-for="post in contentArray" v-bind:key="post.slug">
+        <NuxtLink :to="post.slug">{{ post.title }}</NuxtLink>
+        <span>{{ post.author }}</span>
+      </div>
+    </div>
+  </div>
+</template>
 
-console.log(bloggpostData.author)
+<script>
+export default {
+  async asyncData({ $content, params }) {
+    var contentArray = await $content("").fetch();
+    return { contentArray };
+  }
+};
+</script>
 ```
 
 ### Drift
