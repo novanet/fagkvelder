@@ -122,12 +122,14 @@ Videre viste Lars Alexander hvordan man kan drifte Nuxt-løsningen i Azure Stati
 
 Det genereres da en YAML for Github Actions som bygger og releases til Azure Static Webpage når man sjekker inn kode.
 
-Videre viste Lars Alexander hvordan man konfigurerer DNS-innstillinger for nettesiden hos en domeneleverandør, og hvordan man må gjøre en ["work around"](https://burkeholland.github.io/posts/static-app-root-domain/) ved å bruke Cloudflare for å støtte adresse uten www foran (novanet.no i stedet for www.novanet.no).
-
-# About this blog
-
-When I decided to create a blog, I wanted to make it really simple to write and publish a new post and to make it as low-cost as possible.
+Videre viste Lars Alexander hvordan man konfigurerer DNS-innstillinger for nettsiden hos en domeneleverandør, og hvordan man må gjøre en ["work around"](https://burkeholland.github.io/posts/static-app-root-domain/) ved å bruke Cloudflare for å støtte adresse uten www foran (cloudwith.net i stedet for www.cloudwith.net).
 
 ## Intro til Blazor
 
-![Nuxt](https://github.com/novanet/fagkvelder/blob/master/docs/20210115/content/fagkveld1.png)
+![Blazor](https://github.com/novanet/fagkvelder/blob/master/docs/20210115/content/fagkveld1.png)
+
+På denne fagkvelden var vi så heldige å få [Tore Myklebust](https://www.linkedin.com/in/tore-myklebust-10975726/) på besøk. Han er en selvstendig konsulent, som vi samarbeider med i et av prosjektene. Tore har brukt Blazor i noen av sine prosjekter og gav oss en intro til Blazor, i tillegg til å fortelle litt om erfaring fra prosjektene.
+
+Tore fortalte og viste oss at det er en del oppsett (som del av et .NET Core WebAPI) som må på plass før man får Blazor til å kjøre. Så viste han oss hvordan man lager en side som viser en liste med personer, som ble hentet fra en SQL Database. Og laget en side for å opprette personer.
+
+Tore viste oss og skrøt av komponentbiblioteket [MudBlazor](https://mudblazor.com/), og fortalte litt om hvordan Blazor fungerer teknisk. F.eks. at det opprettes en connection mot servern for webapplikasjonen som holdes gjennom applikasjonens levetid, og at det brukes websockets og SignalR for å kommunisere mellom klient og server.
