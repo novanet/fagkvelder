@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [15.11.2021](/docs/20210115/readme.md) - Blogg med Nuxt og Blazor-intro
+
 ### [18.11.2020](/docs/20201118/readme.md) - Identity Providers
 
 ### [29.10.2020](/docs/20201029/README.md) - GraphQL og Show Me Your Repository: NRK
