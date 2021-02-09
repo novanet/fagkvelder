@@ -2,7 +2,7 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
-### [15.11.2021](/docs/20210115/readme.md) - Ny kunde, SMYR: Tradesolution og arkitekturprinsipper
+### [04.02.2021](/docs/20210204/readme.md) - Ny kunde, SMYR: Tradesolution og arkitekturprinsipper
 
 ### [15.01.2021](/docs/20210115/readme.md) - Blogg med Nuxt og Blazor-intro
 
