@@ -14,10 +14,10 @@ Terje gikk i gjennom et repository hos Tradesolution. Her viste han hvordan de h
 
 ## Arkitekturprinsipper - Lars Alexander
 
-Fagkvelden ble avsluttet med en sesjon i Miro, hvor vi gjorde brainstorming i samarbeid for enes om en del arkitekturprinsipper som skal være førende når vi bygger tjenesteplattformer. Dette fungerte veldig godt i Miro. Nå gjenstår mye arbeid for å strukturere og beskrive alle disse prinsippene.
+Fagkvelden ble avsluttet med en sesjon i [Miro](https://miro.com/app), hvor vi gjorde brainstorming i samarbeid for enes om en del arkitekturprinsipper som skal være førende når vi bygger tjenesteplattformer. Dette fungerte veldig godt i Miro. Nå gjenstår mye arbeid for å strukturere og beskrive alle disse prinsippene.
 
 ## Skribbl.io
 
-Fagkvelden ble avsluttet med tegne-/gjettekonkurranse i Skribbl.io
+Fagkvelden ble avsluttet med tegne-/gjettekonkurranse i [Skribbl.io](https://skribbl.io/).
 
 ![Avsluttet med Skribbl](https://github.com/novanet/fagkvelder/blob/master/docs/20210204/content/skribble.png)
