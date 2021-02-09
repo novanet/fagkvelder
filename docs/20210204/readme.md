@@ -1,6 +1,6 @@
 # Fagkveld 04.02.2021
 
-Fagkveld nummer 2 i 2021, også denne digitalt. Flere spennende innlegg, og artig ny digital konkurranse på slutten av fagkvelden!
+Fagkveld nummer 2 i 2021, også denne digitalt. Flere spennende innlegg og artige digitale konkurranser på slutten av fagkvelden!
 
 ![Fagkveld intro slide](https://github.com/novanet/fagkvelder/blob/master/docs/20210204/content/fagkveld.png)
 
@@ -16,7 +16,13 @@ Terje gikk i gjennom et repository hos Tradesolution. Her viste han hvordan de h
 
 Fagkvelden ble avsluttet med en sesjon i [Miro](https://miro.com/app), hvor vi gjorde brainstorming i samarbeid for enes om en del arkitekturprinsipper som skal være førende når vi bygger tjenesteplattformer. Dette fungerte veldig godt i Miro. Nå gjenstår mye arbeid for å strukturere og beskrive alle disse prinsippene.
 
-## Skribbl.io
+## Sosialt
+
+### API Quiz
+
+Nils Georg hadde laget en quiz, som kun kunne besvares via API'er og Postman.
+
+### Skribbl.io
 
 Fagkvelden ble avsluttet med tegne-/gjettekonkurranse i [Skribbl.io](https://skribbl.io/).
 
