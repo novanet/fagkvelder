@@ -2,15 +2,17 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
-### [15.11.2021](/docs/20210115/readme.md) - Blogg med Nuxt og Blazor-intro
+### [15.11.2021](/docs/20210115/readme.md) - Ny kunde, SMYR: Tradesolution og arkitekturprinsipper
+
+### [15.01.2021](/docs/20210115/readme.md) - Blogg med Nuxt og Blazor-intro
 
 ### [18.11.2020](/docs/20201118/readme.md) - Identity Providers
 
-### [29.10.2020](/docs/20201029/README.md) - GraphQL og Show Me Your Repository: NRK
+### [29.10.2020](/docs/20201029/README.md) - GraphQL og Show Me Your Repository (SMYR): NRK
 
-### [06.10.2020](/docs/20201006/README.md) - ice og Show Me Your Repository: OptinBank
+### [06.10.2020](/docs/20201006/README.md) - ice og Show Me Your Repository (SMYR): OptinBank
 
-### [16.09.2020](/docs/20200916/README.md) - AKKA.NET og Show Me Your Repository: Brødrene Dahl
+### [16.09.2020](/docs/20200916/README.md) - AKKA.NET og Show Me Your Repository (SMYR): Brødrene Dahl
 
 ### [29.04.2020](/docs/20200429/README.md) - AKS Keyvault Flexvol integrasjon og Kahoot
 
