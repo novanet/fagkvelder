@@ -1,6 +1,6 @@
 # Fagkveld 04.02.2021
 
-Nytt år, nye fagkvelder! Årets fagkvelder starter digitalt, som vi har blitt vant med. På første fagkveld skal Lars Alexander fortelle om hvordan man enkelt kan sette opp en blogg med Nuxt, og så har vi fått inn Tore Myklebust (selvstendig utvikler) til å demoe Blazor! Vi avsluttet kvelden med Geoguesser!
+Fagkveld nummer 2 i 2021, også denne digitalt. Flere spennende innlegg, og artig ny digital konkurranse på slutten av fagkvelden!
 
 ![Fagkveld intro slide](https://github.com/novanet/fagkvelder/blob/master/docs/20210204/content/fagkveld.png)
 
@@ -21,3 +21,5 @@ Fagkvelden ble avsluttet med en sesjon i [Miro](https://miro.com/app), hvor vi g
 Fagkvelden ble avsluttet med tegne-/gjettekonkurranse i [Skribbl.io](https://skribbl.io/).
 
 ![Avsluttet med Skribbl](https://github.com/novanet/fagkvelder/blob/master/docs/20210204/content/skribble.png)
+
+Svaret på denne var "Laser" :)
