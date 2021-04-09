@@ -2,7 +2,7 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
-### [08.04.2021](/docs/20210408/readme.md) - Brainstorming, SMYR: Thon Databank API, Intro til Cypress og Testcafé
+### [08.04.2021](/docs/20210408/readme.md) - Brainstorming, SMYR: Thon Databank API, UI-testing med Cypress og Testcafé
 
 ### [04.03.2021](/docs/20210304/readme.md) - SMYR: CustomerHttpContext og Quiz-verktøy med SignalR og Vue
 
