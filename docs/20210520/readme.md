@@ -13,7 +13,7 @@ https://novanet.no/arkitekturprinsipper
 
 ## Show me your repository: Proviso-integrasjon
 
-Leif fortalte om et repository/solution som han har laget hos NHO, som sørger for å integrere mot et av deres kjernesystemer, Proviso. Proviso håndterer arrangementer i regi av NHO. Løsningen må i tillegg integere mot flere andre systemer. Leif har brukt Hangfire for å sette opp repeterende jobber som flytter data, og i løsningen baserer seg blant annet på CQRS og Mediator. Løsningen gjør at man kan fase ut en gammel PHP-løsning, og har foreløpig gjort jobben i produksjon uten problemer.
+Leif fortalte om et repository/solution som han har laget hos NHO, som sørger for å integrere mot den eksterne løsningen Proviso. Proviso håndterer arrangementer i regi av NHO. Løsningen må i tillegg integere mot flere andre systemer. Leif har brukt Hangfire for å sette opp repeterende jobber som flytter data, og i løsningen baserer seg blant annet på CQRS og Mediator. Løsningen gjør at man kan fase ut en gammel PHP-løsning, og har foreløpig gjort jobben i produksjon uten problemer.
 
 ## .NET Framework -> .NET Core
 
