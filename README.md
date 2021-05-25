@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [20.05.2021](/docs/20210520/readme.md) - Nova Tjenesteplattform, SMYR: Proviso API, oppgradering fra .NET Full Framework til .NET (Core).
+
 ### [08.04.2021](/docs/20210408/readme.md) - Brainstorming, SMYR: Thon Databank API, UI-testing med Cypress og Testcafé
 
 ### [04.03.2021](/docs/20210304/readme.md) - SMYR: CustomerHttpContext og Quiz-verktøy med SignalR og Vue
