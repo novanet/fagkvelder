@@ -10,7 +10,7 @@ Tryve Lie fra Finn.no fortalte om microfrontends. Vi har tidligere hørt mye om 
 
 ![Microfrontends](https://github.com/novanet/fagkvelder/blob/master/docs/20210610/content/microservices.png)
 
-Videre fortalte trygge om to rammeverk som er utviklet og i bruke hos Finn.no for å ta i bruk microfrontends.
+Videre fortalte Trygve om to rammeverk som er utviklet og i bruk hos Finn.no for å ta i bruk microfrontends.
 
 ### Podium
 
