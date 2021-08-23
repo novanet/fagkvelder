@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [19.08.2021](/docs/20210819/readme.md) - GraphQL med Hot Chocolate
+
 ### [10.06.2021](/docs/20210610/readme.md) - Eik og Podium
 
 ### [20.05.2021](/docs/20210520/readme.md) - Nova Tjenesteplattform, SMYR: Proviso API, oppgradering fra .NET Full Framework til .NET (Core).
