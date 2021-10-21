@@ -2,6 +2,10 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [20.10.2021](/docs/20211020/readme.md) - Intelecy og Passord-løsning med AzureAD, AzureAD B2C, Active Directory og Feide
+
+### [23.09.2021](/docs/20211020/readme.md) - Database encryption using AlwaysEncrypted, Azure KeyVault and SQL Server og Cypress i Azure Devops
+
 ### [19.08.2021](/docs/20210819/readme.md) - GraphQL med Hot Chocolate
 
 ### [10.06.2021](/docs/20210610/readme.md) - Eik og Podium
