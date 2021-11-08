@@ -4,7 +4,7 @@ Nok en fagkveld fysisk på kontoret. Fler og fler møter opp fysisk, mens de som
 
 ## cdktf
 
-[Nils George](https://novanet.no/menneskene/nils-georg-skutle) fortalte om [cdktf](https://learn.hashicorp.com/tutorials/terraform/cdktf). cdktf gjør det mulig å definere skyinfrastruktur i et kodespråk som du kjenner, for eksempel .NET eller Typescript. cdktf kombinerer [AWS Cloud Development Kit](https://aws.amazon.com/cdk/) (cdk) og [Terraform](https://www.terraform.io/) (tf) for å oppnå dette.
+[Nils Georg](https://novanet.no/menneskene/nils-georg-skutle) fortalte om [cdktf](https://learn.hashicorp.com/tutorials/terraform/cdktf). cdktf gjør det mulig å definere skyinfrastruktur i et kodespråk som du kjenner, for eksempel .NET eller Typescript. cdktf kombinerer [AWS Cloud Development Kit](https://aws.amazon.com/cdk/) (cdk) og [Terraform](https://www.terraform.io/) (tf) for å oppnå dette.
 
 ![Nils Georg presenterer](https://github.com/novanet/fagkvelder/blob/master/docs/20211104/content/IMG_9008.png)
 
