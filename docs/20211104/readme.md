@@ -12,7 +12,7 @@ Nok en fagkveld fysisk på kontoret. Fler og fler møter opp fysisk, mens de som
 
 cdktf er foreløpig i beta-versjon, men Nils Georg og teamet har brukt dette en god stund uten problemer.
 
-Presentasjonen til Nils Georg ligger her [her](https://github.com/novanet/fagkvelder/blob/master/docs/20211104/content/cdktf.png), men mesteparten av demoen hans ble gjort i kode. Hvis du trenger hjelp med å komme igang med cdktf og vil se hele presentasjonen, ta gjerne [kontakt](mailto:cto@novanet.no) :)
+Presentasjonen til Nils Georg ligger her [her](https://github.com/novanet/fagkvelder/blob/master/docs/20211104/content/cdktf.pdf), men mesteparten av demoen hans ble gjort i kode. Hvis du trenger hjelp med å komme igang med cdktf og vil se hele presentasjonen, ta gjerne [kontakt](mailto:cto@novanet.no) :)
 
 ### Cypress i prosjekt
 
