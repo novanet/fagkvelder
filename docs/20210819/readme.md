@@ -1,0 +1,3 @@
+# Fagkveld 19.08.2021
+
+Sammendrag kommer senere...
