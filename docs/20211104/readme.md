@@ -1,6 +1,6 @@
 # Fagkveld 04.11.2021
 
-Nok en fagkveld fysisk på kontoret.
+Nok en fagkveld fysisk på kontoret. Fler og fler møter opp fysisk, mens de som vil fortsatt kan være med på videostrøm.
 
 ## cdktf
 
