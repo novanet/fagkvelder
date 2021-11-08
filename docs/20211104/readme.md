@@ -6,7 +6,7 @@ Nok en fagkveld fysisk på kontoret.
 
 [Nils George](https://novanet.no/menneskene/nils-georg-skutle) fortalte om [cdktf](https://learn.hashicorp.com/tutorials/terraform/cdktf). cdktf gjør det mulig å definere skyinfrastruktur i et kodespråk som du kjenner, for eksempel .NET eller Typescript. cdktf kombinerer [AWS Cloud Development Kit](https://aws.amazon.com/cdk/) (cdk) og [Terraform](https://www.terraform.io/) (tf) for å oppnå dette.
 
-![Nils Georg presenterer](https://github.com/novanet/fagkvelder/blob/master/docs/2021104/content/IMG_9008.png)
+![Nils Georg presenterer](https://github.com/novanet/fagkvelder/blob/master/docs/20211104/content/IMG_9008.png)
 
 Å definere infrastruktur i kode gir en del fordeler. Du kan f.eks. lage sine egne gjenbrukbare klasser, abstraksjoner eller kjøre løkker for å definere ressurser i skyen. I bakgrunnen blir det generert Terraform-skripter som kjøres for å sette opp ressursene.
 
@@ -26,4 +26,4 @@ Ta gjerne [kontakt](mailto:cto@novanet.no) hvis du trenger hjelp med Cypress:)
 
 Etter fagkveld koste vi oss sammen med test av årets juleøl!
 
-![Juleølsmaking](https://github.com/novanet/fagkvelder/blob/master/docs/2021104/content/IMG_9032.png)
+![Juleølsmaking](https://github.com/novanet/fagkvelder/blob/master/docs/20211104/content/IMG_9032.png)
