@@ -16,6 +16,8 @@ Hvis du trenger hjelp med AWS eller Terraform, ta gjerne [kontakt](mailto:cto@no
 
 [Hans Arne](https://novanet.no/menneskene/hans-arne-vartdal) fortalte først om [Polly](https://github.com/App-vNext/Polly), som er et .NET-rammeverk for "resilience and transient-fault-handling". Dvs. at du kan legge inn funksjonalitet i koden som gjør den mer robust når eksterne avhengigheter (som et API fra en 3. part) går ned eller svarer tregt. "Startsiden" til RiksTV har tv-programmer, filmer, anbefalinger, programmer man har sett tidligere, programmer man ønsker å fortsette på osv. Hans Arne vist hvordan de har brukt Polly for å kunne levere en begrenset utgave av "startsiden", selv om noen av tjenestene den avhenger av går ned eller svarer tregt.
 
+![Fagkveld på kontoret](https://github.com/novanet/fagkvelder/blob/master/docs/20220324/content/polly.png)
+
 RiksTV bruker følgende funksjonalitet i Polly:
 
 - Circuit breakers: Stopper tilgang ved mange feil
