@@ -2,7 +2,7 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
-### [04.11.2021](/docs/20220324/readme.md) - AWS + Terraform og Polly + Simmy
+### [24.03.2022](/docs/20220324/readme.md) - AWS + Terraform og Polly + Simmy
 
 ### [04.11.2021](/docs/20211104/readme.md) - cdkft og Cypress.io i kundeprosjekt
 

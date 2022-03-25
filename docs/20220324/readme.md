@@ -2,7 +2,7 @@
 
 Nok en fagkveld fysisk på kontoret. Fler og fler møter opp fysisk, mens de som vil fortsatt kan være med på videostrøm.
 
-![Fagkveld på kontoret](https://github.com/novanet/fagkvelder/blob/master/docs/20210324/content/kontoret.png)
+![Fagkveld på kontoret](https://github.com/novanet/fagkvelder/blob/master/docs/20220324/content/kontoret.jpg)
 
 ## AWS og Terraform
 
@@ -30,4 +30,4 @@ Ta gjerne [kontakt](mailto:cto@novanet.no) hvis du vil komme igang med med Poly 
 
 Etter fagkveld gikk turen videre til House of Nerds, hvor vi spilte Counterstrike. Grattis til Sævar som eide oss andre...
 
-![Counterstrike spilling](https://github.com/novanet/fagkvelder/blob/master/docs/20220324/content/houseofnerds.png)
+![Counterstrike spilling](https://github.com/novanet/fagkvelder/blob/master/docs/20220324/content/houseofnerds.jpg)
