@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [04.11.2021](/docs/20220324/readme.md) - AWS + Terraform og Polly + Simmy
+
 ### [04.11.2021](/docs/20211104/readme.md) - cdkft og Cypress.io i kundeprosjekt
 
 ### [20.10.2021](/docs/20211020/readme.md) - Intelecy og Passord-løsning med AzureAD, AzureAD B2C, Active Directory og Feide
