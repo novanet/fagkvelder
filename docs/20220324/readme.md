@@ -30,6 +30,6 @@ Ta gjerne [kontakt](mailto:cto@novanet.no) hvis du vil komme igang med med Polly
 
 ### Counterstrike
 
-Etter fagkveld gikk turen videre til House of Nerds, hvor vi spilte Counterstrike. Grattis til Sævar som eide oss andre...
+Etter fagkveld gikk turen videre til House of Nerds hvor vi spilte Counterstrike. Grattis til Sævar som eide oss andre...
 
 ![Counterstrike spilling](https://github.com/novanet/fagkvelder/blob/master/docs/20220324/content/houseofnerds.jpg)
