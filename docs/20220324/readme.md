@@ -20,13 +20,13 @@ Hvis du trenger hjelp med AWS eller Terraform, ta gjerne [kontakt](mailto:cto@no
 
 RiksTV bruker følgende funksjonalitet i Polly:
 
-- Circuit breakers: Stopper tilgang ved mange feil
-- Timeout: Setter grense for hvor lenge man skal vente på en tjeneste
-- Retry: Gjør at koden venter litt før den gjør et nytt forsøk
+- Circuit breakers: Dersom flere forsøk på en operasjon feiler, slutter man å forsøke på denne operasjonen i en periode.
+- Timeout: Setter en maks grense for hvor lenge man venter på en operasjon
+- Retry: Prøver på nytt innenfor samme operasjon
 
-Videre fortalte Hans Arne om [Simmy](https://github.com/Polly-Contrib/Simmy), et .NET-rammeverk for "chaos engineering and fault injection". Dvs. at man kan konfigurere at Simmy skal tigge feil i systemet. Man kan "wrappe" et metodekall med Simmy med en såkalt "monkey policy" og gjør at f.eks. kallet innimellom ikke svarer eller går tregt. I RiksTV er ligger dette i kode, også i produksjon, men de bruker "feature toggeling" (med LaunchDarkly) for å slå "monkey policy"'ene av og på. Ved å slå på Simmy kan man teste at Polly policy'ene fungerer og håndtere feil og treghet slik man forventer.
+Videre fortalte Hans Arne om [Simmy](https://github.com/Polly-Contrib/Simmy), et .NET-rammeverk for "chaos engineering and fault injection". Dvs. at man kan konfigurere at Simmy skal tigge feil i systemet. Man kan "wrappe" et metodekall med Simmy med en såkalt "monkey policy" og gjør at f.eks. kallet innimellom ikke svarer eller går tregt. I RiksTV ligger dette i kode, også i produksjon, men de bruker "feature toggeling" (med LaunchDarkly) for å slå "monkey policy"'ene av og på. Ved å slå på Simmy kan man teste at Polly policy'ene fungerer og håndtere feil og treghet slik man forventer.
 
-Ta gjerne [kontakt](mailto:cto@novanet.no) hvis du vil komme igang med med Poly eller Simmy!
+Ta gjerne [kontakt](mailto:cto@novanet.no) hvis du vil komme igang med med Polly eller Simmy!
 
 ### Counterstrike
 
