@@ -1,6 +1,6 @@
 # Fagkveld 24.03.2022
 
-Nok en fagkveld fysisk på kontoret. Fler og fler møter opp fysisk, mens de som vil fortsatt kan være med på videostrøm.
+Mange oppmøtte på enda en fagkveld! Inkludert noen fra søsterselskaper og partnere. Kate (vår Trivselsansvarlig) hadde disket opp med deilig mat og drikke :ok_hand:
 
 ![Fagkveld på kontoret](https://github.com/novanet/fagkvelder/blob/master/docs/20220324/content/kontoret.jpg)
 
@@ -22,7 +22,7 @@ RiksTV bruker følgende funksjonalitet i Polly:
 - Timeout: Setter grense for hvor lenge man skal vente på en tjeneste
 - Retry: Gjør at koden venter litt før den gjør et nytt forsøk
 
-Videre fortalte Hans Arne om Simmy, et .NET-rammeverk for "chaos engineering and fault injection". Dvs. at man kan konfigurere at Simmy skal tigge feil i systemet. Man kan "wrappe" et metodekall med Simmy med en såkalt "monkey policy" og gjør at f.eks. kallet innimellom ikke svarer eller går tregt. I RiksTV er ligger dette i kode, også i produksjon, men de bruker "feature toggeling" (med LaunchDarkly) for å slå "monkey policy"'ene av og på. Ved å slå på Simmy kan man teste at Polly policy'ene fungerer og håndtere feil og treghet slik man forventer.
+Videre fortalte Hans Arne om [Simmy](https://github.com/Polly-Contrib/Simmy), et .NET-rammeverk for "chaos engineering and fault injection". Dvs. at man kan konfigurere at Simmy skal tigge feil i systemet. Man kan "wrappe" et metodekall med Simmy med en såkalt "monkey policy" og gjør at f.eks. kallet innimellom ikke svarer eller går tregt. I RiksTV er ligger dette i kode, også i produksjon, men de bruker "feature toggeling" (med LaunchDarkly) for å slå "monkey policy"'ene av og på. Ved å slå på Simmy kan man teste at Polly policy'ene fungerer og håndtere feil og treghet slik man forventer.
 
 Ta gjerne [kontakt](mailto:cto@novanet.no) hvis du vil komme igang med med Poly eller Simmy!
 
