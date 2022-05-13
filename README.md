@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [12.05.2022](/docs/20220512/readme.md) - Mandelbrot-rendering, Kodekamp og årets tur
+
 ### [24.03.2022](/docs/20220324/readme.md) - AWS + Terraform og Polly + Simmy
 
 ### [04.11.2021](/docs/20211104/readme.md) - cdkft og Cypress.io i kundeprosjekt
