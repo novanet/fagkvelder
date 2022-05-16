@@ -6,6 +6,10 @@ Oppsummering, presentasjoner og annet fra fagkvelder
 
 ### [24.03.2022](/docs/20220324/readme.md) - AWS + Terraform og Polly + Simmy
 
+### [01.03.2022](/docs/20220301/readme.md) - Infosofts Cloud Native plattform for abonnmentsstyring
+
+### [04.02.2022](/docs/20220204/readme.md) - Github Actions og Bicep hos Huddly
+
 ### [04.11.2021](/docs/20211104/readme.md) - cdkft og Cypress.io i kundeprosjekt
 
 ### [20.10.2021](/docs/20211020/readme.md) - Intelecy og Passord-løsning med AzureAD, AzureAD B2C, Active Directory og Feide
