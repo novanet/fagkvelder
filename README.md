@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [12.05.2022](/docs/20220601/readme.md) - Fra VM til Azure Kubernetes Service og Azure Container Apps
+
 ### [12.05.2022](/docs/20220512/readme.md) - Mandelbrot-rendering, Kodekamp og årets tur
 
 ### [24.03.2022](/docs/20220324/readme.md) - AWS + Terraform og Polly + Simmy
