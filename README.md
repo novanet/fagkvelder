@@ -2,7 +2,7 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
-### [12.05.2022](/docs/20220601/readme.md) - Fra VM til Azure Kubernetes Service og Azure Container Apps
+### [01.06.2022](/docs/20220601/readme.md) - Fra VM til Azure Kubernetes Service og Azure Container Apps
 
 ### [12.05.2022](/docs/20220512/readme.md) - Mandelbrot-rendering, Kodekamp og årets tur
 
