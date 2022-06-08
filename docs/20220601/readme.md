@@ -6,7 +6,7 @@ Ny fagkveld på kontoret hvor vi hadde invitert eksern foredagsholder og andre u
 
 ## Fra VM til Azure Kubernetes Service - Kristina Devochko
 
-Kristina Devochko fra TieroEvry og NNUG kom på besøk for å fortelle om deres reise fra å hoste SAAS-løsningen deres på VMer til å ta i bruk Azure Kubernetes Service. Hun fortalte om SAAS-produktet deres og arktitekturen for denne, samt utfordringer med drift av denne på VMer og hvorfor Azure Kubernetes Service ble valgt som ny løsning for drift. De tidlig ute med å ta i bruk Azure Kubernetes Service, samtidig som en del av løsningen kjører på gammel teknologi (.NET Full Framework). Kristina gikk i gjennom utfordringer og læring de hadde gjort underveis i prosjektet. Så kjørte hun en demo på hvordan de setter opp et helt nytt kluster med noen få klikk i admin-verktøyet deres.
+Kristina Devochko fra TietoEvry og NNUG kom på besøk for å fortelle om deres reise fra å hoste SAAS-løsningen deres på VMer til å ta i bruk Azure Kubernetes Service. Hun fortalte om SAAS-produktet deres og arktitekturen for denne, samt utfordringer med drift av denne på VMer og hvorfor Azure Kubernetes Service ble valgt som ny løsning for drift. De tidlig ute med å ta i bruk Azure Kubernetes Service, samtidig som en del av løsningen kjører på gammel teknologi (.NET Full Framework). Kristina gikk i gjennom utfordringer og læring de hadde gjort underveis i prosjektet. Så kjørte hun en demo på hvordan de setter opp et helt nytt kluster med noen få klikk i admin-verktøyet deres.
 
 ![Kristina presenterer](https://github.com/novanet/fagkvelder/blob/master/docs/20220601/content/kristina.png)
 
