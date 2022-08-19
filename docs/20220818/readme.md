@@ -2,7 +2,7 @@
 
 Ny fagkveld! Denne gangen med presentasjon av første versjon av kompetanseprogrammet vårt, Level Up. Vi hadde også tre nye ansatte på fagkveld! Velkommen til Per, Jon og Henrik!
 
-![Fagansvarlige](https://github.com/novanet/fagkvelder/blob/master/docs/20220818/content/speakers.png)
+![Fagansvarlige](https://github.com/novanet/fagkvelder/blob/master/docs/20220818/content/IMG_2869.jpg)
 
 Hver av våre fagansvarlige presenterte kort innholdet i sin modul. Under ser du modulene i programmet og eksempler på hva modulen inneholder:
 
@@ -31,6 +31,8 @@ Hver av våre fagansvarlige presenterte kort innholdet i sin modul. Under ser du
 - Kodekvalitet og sikkerhet (DevSecOps)
 - Overvåkning
 - Artifact/Supply Management.
+
+![Fagansvarlige](https://github.com/novanet/fagkvelder/blob/master/docs/20220818/content/speakers.png)
 
 ### Arkitektur - Jan Tore
 
