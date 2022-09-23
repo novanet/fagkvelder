@@ -2,7 +2,7 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
-### [23.09.2022](/docs/20220923/readme.md) - Presentasjon av ny kunde, Inflow Media og SonarQube
+### [22.09.2022](/docs/20220922/readme.md) - Presentasjon av ny kunde, Inflow Media og SonarQube
 
 ### [18.08.2022](/docs/20220818/readme.md) - Novanet Levelup kompetanseprogram
 
