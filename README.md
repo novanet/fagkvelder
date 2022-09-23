@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [23.09.2022](/docs/20220923/readme.md) - Presentasjon av ny kunde, Inflow Media og SonarQube
+
 ### [18.08.2022](/docs/20220818/readme.md) - Novanet Levelup kompetanseprogram
 
 ### [01.06.2022](/docs/20220601/readme.md) - Fra VM til Azure Kubernetes Service og Azure Container Apps
