@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [03.11.2022](/docs/20221103/readme.md) - OpenTelemetry + ES, Azure App Config og Nuke
+
 ### [22.09.2022](/docs/20220922/readme.md) - Presentasjon av ny kunde, Inflow Media og SonarQube
 
 ### [18.08.2022](/docs/20220818/readme.md) - Novanet Levelup kompetanseprogram
