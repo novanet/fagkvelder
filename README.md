@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [26.01.2023](/docs/20230126/readme.md) - Ny kunde og Hackaton retrospective
+
 ### [03.11.2022](/docs/20221103/readme.md) - OpenTelemetry + ES, Azure App Config og Nuke
 
 ### [22.09.2022](/docs/20220922/readme.md) - Presentasjon av ny kunde, Inflow Media og SonarQube
