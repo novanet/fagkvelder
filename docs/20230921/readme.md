@@ -1,6 +1,5 @@
 # OpenSCAD og Event Sourcing
 
-
 ## OpenSCAD - Thomas
 
 Thomas i Novanet er glad i brettspill og har maaaaange brettspill 🎲 Dvs. at det blir mange brikker, terninger, kort osv. å holde styr på. For å holde styr på disse ønsket Thomas seg egne, tilpassede bokser og bestemte seg for å 3D-printe slike selv.
@@ -15,15 +14,15 @@ OpenSCAD er en gratis, åpen kildekode programvare som brukes til parametrisk 3D
 
 Noen av hovedtrekkene til OpenSCAD inkluderer:
 
-* Parametrisk design: Brukere kan definere parametere for modellene sine, for eksempel dimensjoner og geometriske egenskaper. Dette gjør det enkelt å gjøre endringer i modellen ved å justere parameterverdiene.
+- Parametrisk design: Brukere kan definere parametere for modellene sine, for eksempel dimensjoner og geometriske egenskaper. Dette gjør det enkelt å gjøre endringer i modellen ved å justere parameterverdiene.
 
-* Boolean-operasjoner: OpenSCAD støtter en rekke boolean-operasjoner som union, substraksjon og skjæring. Dette gjør det mulig å kombinere og endre geometriske former på avanserte måter.
+- Boolean-operasjoner: OpenSCAD støtter en rekke boolean-operasjoner som union, substraksjon og skjæring. Dette gjør det mulig å kombinere og endre geometriske former på avanserte måter.
 
-* Import av 2D-vektorgrafikk: Du kan også importere 2D-vektorgrafikkfiler, for eksempel SVG-filer, og ekstrudere dem for å lage 3D-modeller.
+- Import av 2D-vektorgrafikk: Du kan også importere 2D-vektorgrafikkfiler, for eksempel SVG-filer, og ekstrudere dem for å lage 3D-modeller.
 
-* Støtte for skriving av egne funksjoner: OpenSCAD lar brukerne definere egne funksjoner og moduler for å organisere og gjenbruke kode.
+- Støtte for skriving av egne funksjoner: OpenSCAD lar brukerne definere egne funksjoner og moduler for å organisere og gjenbruke kode.
 
-* Forhåndsvisning: Programmet gir en sanntids forhåndsvisning av modellen mens du redigerer koden, slik at du kan se hvordan endringene påvirker resultatet.
+- Forhåndsvisning: Programmet gir en sanntids forhåndsvisning av modellen mens du redigerer koden, slik at du kan se hvordan endringene påvirker resultatet.
 
 OpenSCAD er spesielt populær blant DIY-entusiaster, 3D-utskriftsentusiaster og ingeniører som trenger nøyaktig kontroll over designprosessen. Det er tilgjengelig for Windows, macOS og Linux-plattformer, og det er også mange brukergenererte biblioteker og ressurser tilgjengelig for å hjelpe folk med å komme i gang og dele design med fellesskapet.
 
@@ -31,11 +30,11 @@ OpenSCAD er spesielt populær blant DIY-entusiaster, 3D-utskriftsentusiaster og 
 
 Alex har vært på workshop om Event Sourcing. På fagkvelden gikk han gjennom de viktigste tingene han lærte på workshopen:
 
-* For systemer med sterkt behov for sporbarhet er Event Sourcing et godt valg
-* Event Sourcing kan bidra til bedre ytelse ved bruk av read models
-* Event Sourcing kan komplisere løsningen/koden
-* Man bør gjøre en vurdering av fordeler og ulemper før man tar i bruk Event Sourcing
-* Selve workshoppen med Hannes Lowette brukte for mye tid på oppsette og å skrive boilerplate kode
+- For systemer med sterkt behov for sporbarhet er Event Sourcing et godt valg
+- Event Sourcing kan bidra til bedre ytelse ved bruk av read models
+- Event Sourcing kan komplisere løsningen/koden
+- Man bør gjøre en vurdering av fordeler og ulemper før man tar i bruk Event Sourcing
+- Selve workshoppen med Hannes Lowette brukte for mye tid på oppsette og å skrive boilerplate kode
 
 🤖 sier:
 
@@ -58,3 +57,11 @@ Business Intelligence: Hendelsesloggen kan brukes til å generere innsikt og ana
 Event Sourcing brukes ofte i sammenheng med CQRS (Command Query Responsibility Segregation), hvor kommandoer og spørringer til systemet håndteres separat. Kommandoer utløser hendelser som registreres i hendelsesloggen, og spørringer bruker hendelsesloggen til å hente aktuell tilstandsinformasjon.
 
 Dette mønsteret er spesielt nyttig i situasjoner der det er viktig å ha full historikk og sporbarhet av systemets tilstandsendringer, for eksempel i finansielle systemer, logg- og overvåkningssystemer, og distribuerte applikasjoner der høy tilgjengelighet og skalerbarhet er viktige krav.
+
+## Spill og moro
+
+Etter det faglige ble det diverse spill og noe godt i glasset
+
+![Bilde fra fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20230921/content/IMG_3687.jpg)
+
+![Bilde fra fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20230921/content/IMG_20230921_195153.jpg)
