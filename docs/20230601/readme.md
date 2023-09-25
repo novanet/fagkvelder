@@ -1,0 +1,3 @@
+# OpenAI og to kundepresentasjoner
+
+Referat kommer etterhvert...

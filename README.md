@@ -2,6 +2,22 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [21.09.2023](/docs/20230921/readme.md) - OpenSCAD og Event Sourcing
+
+### [24.08.2023](/docs/20230824/readme.md) - Internt program
+
+### [01.06.2023](/docs/20230601/readme.md) - OpenAI og to kundepresentasjoner
+
+### [11.05.2023](/docs/20230511/readme.md) - Emosjonell kompetanse i arbeidslivet v/ psykolog Aksel Inge Sinding
+
+### [21.04.2023](/docs/20230421/readme.md) - Åpen F# meetup
+
+### [30.03.2023](/docs/20230330/readme.md) - InfluxDB og Nuke
+
+### [01.03.2023](/docs/20230301/readme.md) - Test Containers og gjennomgang av kundeprosjekt
+
+### [16.02.2023](/docs/20230216/readme.md) - Åpen fagkveld om DDD med Einar Høst og Almir Mesic
+
 ### [26.01.2023](/docs/20230126/readme.md) - Ny kunde og Hackaton retrospective
 
 ### [03.11.2022](/docs/20221103/readme.md) - OpenTelemetry + ES, Azure App Config og Nuke

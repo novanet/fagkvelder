@@ -1,0 +1,3 @@
+# Åpen F# meetup
+
+Referat kommer etterhvert...

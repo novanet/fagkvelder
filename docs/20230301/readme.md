@@ -1,0 +1,3 @@
+# Test Containers og gjennomgang av kundeprosjekt
+
+Referat kommer etterhvert...

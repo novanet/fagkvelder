@@ -1,0 +1,3 @@
+# OpenSCAD og Event Sourcing
+
+Referat kommer etterhvert...
