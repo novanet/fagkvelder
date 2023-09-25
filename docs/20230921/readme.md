@@ -28,6 +28,8 @@ OpenSCAD er spesielt populær blant DIY-entusiaster, 3D-utskriftsentusiaster og 
 
 ## Event Sourcing - Alex
 
+![Bilde fra fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20230921/content/IMG_1293.JPG)
+
 Alex har vært på workshop om Event Sourcing. På fagkvelden gikk han gjennom de viktigste tingene han lærte på workshopen:
 
 - For systemer med sterkt behov for sporbarhet er Event Sourcing et godt valg
