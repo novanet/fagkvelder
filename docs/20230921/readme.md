@@ -6,7 +6,7 @@ Thomas i Novanet er glad i brettspill og har maaaaange brettspill 🎲 Dvs. at d
 
 Pga. begrensede 3D-modelleringskunnskaper fant Thomas ut at han kunne bruke OpenSCAD for å kode 3D-modellene. Noe han er sinnsykt mye bedre på 😁
 
-![Bilde fra fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20230921/content/IMG_8178.jpg)
+![Bilde fra fagkveld]([https://github.com/novanet/fagkvelder/blob/master/docs/20230921/content/IMG_8178.jpg](https://github.com/novanet/fagkvelder/blob/master/docs/20230921/content/thomas%20.png)
 
 🤖 sier:
 
