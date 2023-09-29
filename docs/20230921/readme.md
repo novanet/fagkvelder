@@ -66,4 +66,4 @@ Etter det faglige ble det diverse spill og noe godt i glasset
 
 ![Bilde fra fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20230921/content/fellesbilde-spill.png)
 
-![Bilde fra fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20230921/content/IMG_20230921_195153.jpg)
+![Bilde fra fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20230921/content/fellesbilde-spill3.png)
