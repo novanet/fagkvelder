@@ -2,6 +2,8 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [12.10.2023](/docs/20231012/readme.md) - Bicep i prosjekt, Microsoft Partner og AI-verktøy
+
 ### [21.09.2023](/docs/20230921/readme.md) - OpenSCAD og Event Sourcing
 
 ### [24.08.2023](/docs/20230824/readme.md) - Internt program
