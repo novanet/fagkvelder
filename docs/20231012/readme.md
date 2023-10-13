@@ -2,7 +2,7 @@
 
 Denne fagkvelden hadde mange innlegg med et bredt spekter av tema :)
 
-## Microsoft Partner 🤝
+## 🤝 Microsoft Partner
 
 Jan fortalte om endringene i Microsofts partnerprogram og kravene for å bli Microsoft Solutions Partner. Novanet har alltid vært Microsoft Gold Partner og ønsker å forsette å være Microsoft partner, også med det nye programmet. Det er spesifikt Solution Partner for Digital and App Innovation som vi ønsker å bli i første omgang.
 
@@ -26,7 +26,7 @@ Denne kategorien ser på om økt bruk i de Azure subscriptions man har ansvar fo
 
 Målet er å bli Microsoft Solutions Partner ila. neste år.
 
-## Bicep i kundeprosjekt 💪
+## 💪 Bicep i kundeprosjekt
 
 Vi har tidligere hatt innlegg om Bicep på fagkveld. Denne gangen gikk Leif igjennom litt mer omfattende praktisk bruk av Bicep.
 
@@ -36,7 +36,7 @@ Så demonstrerte han hvordan Bicep var satt opp hos kunden. De hadde mange ferdi
 
 Modulene deles via Azure Container Registry, slik at de blir tilgjenglig på tvers av team og prosjekter.
 
-## AI-verktøy for utviklere 🤖
+## 🤖 AI-verktøy for utviklere
 
 Hans Arne har gjort research på forskjellige AI-verktøy for utviklere, og blant annet sett på lisensiering, hvordan de lagrer data og hvordan de fungerer i praksis. Dette for å lage en anbefaling og noen regler for bruk av disse verktøyene for Novanets konsulenter.
 
