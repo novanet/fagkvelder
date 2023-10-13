@@ -18,7 +18,7 @@ Her kreves det flere sertifiseringer for å samle poeng. Blant annet må flere t
 
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure Developer Associate
-- Microsoft Certified: Azure Solutions Architect Exper
+- Microsoft Certified: Azure Solutions Architect Expert
 
 #### Customer Success
 
