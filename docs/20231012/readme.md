@@ -48,6 +48,6 @@ Noen viktige punkter var:
 
 Videre gav Hans Arne oss en del tips og triks ved bruk av AI-verktøy for utviklere.
 
-## Sosialt
+## ⚽ Sosialt
 
-Etter fagkvelden dro vi på Pokalen fotballpug og så Norge gruse Kypros ⚽
+Etter fagkvelden dro vi på Pokalen fotballpug og så Norge gruse Kypros 👊👏🙌
