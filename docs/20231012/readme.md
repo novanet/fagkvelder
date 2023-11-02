@@ -1,7 +1,7 @@
 # Bicep i prosjekt, Microsoft Partner og AI-verktøy
 
 Denne fagkvelden hadde mange innlegg med et bredt spekter av tema :)
-https://github.com/novanet/fagkvelder/blob/master/docs/20231012/fagkveld.png
+![Bilde fra fagkveld]([(https://github.com/novanet/fagkvelder/blob/master/docs/20231012/fagkveld.png])
 
 ## 🤝 Microsoft Partner
 
