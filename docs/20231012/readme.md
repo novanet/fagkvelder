@@ -38,6 +38,8 @@ Så demonstrerte han hvordan Bicep var satt opp hos kunden. De hadde mange ferdi
 
 Modulene deles via Azure Container Registry, slik at de blir tilgjenglig på tvers av team og prosjekter.
 
+![Bilde fra fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20231012/bicep.png)
+
 ## 🤖 AI-verktøy for utviklere
 
 Hans Arne har gjort research på forskjellige AI-verktøy for utviklere, og blant annet sett på lisensiering, hvordan de lagrer data og hvordan de fungerer i praksis. Dette for å lage en anbefaling og noen regler for bruk av disse verktøyene for Novanets konsulenter.
