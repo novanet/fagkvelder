@@ -55,3 +55,6 @@ Videre gav Hans Arne oss en del tips og triks ved bruk av AI-verktøy for utvikl
 ## ⚽ Sosialt
 
 Etter fagkvelden dro vi på Pokalen fotballpug og så Norge gruse Kypros 👊👏🙌
+
+![Bilde fra fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20231012/pokalen.png)
+
