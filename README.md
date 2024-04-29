@@ -8,7 +8,7 @@ Oppsummering, presentasjoner og annet fra fagkvelder
 
 ### [05.03.2024](/docs/20240305/readme.md) - 10 ting om SQL Server, Kubernetes lokalt og kundepresentasjon
 
-### [15.02.2024](/docs/docs/20240215/readme.md) - Database-sammenligning og kryptering med Matrix
+### [15.02.2024](/docs/20240215/readme.md) - Database-sammenligning og kryptering med Matrix
 
 ### [10.01.2024](/docs/20240110/readme.md) - Nova Advisory og caching
 
