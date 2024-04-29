@@ -2,6 +2,18 @@
 
 Oppsummering, presentasjoner og annet fra fagkvelder
 
+### [24.04.2024](/docs/20240424/readme.md) - DI Deep Dive og avansert søk med ElasticSearch
+
+### [04.04.2024](/docs/20240404/readme.md) - EF Deep Dive, .NET Aspire og .NET AOT kompilering
+
+### [05.03.2024](/docs/20240305/readme.md) - 10 ting om SQL Server, Kubernetes lokalt og kundepresentasjon
+
+### [15.02.2024](/docs/docs/20240215/readme.md) - Database-sammenligning og kryptering med Matrix
+
+### [10.01.2024](/docs/20240110/readme.md) - Nova Advisory og caching
+
+### [02.11.2023](/docs/20231102/readme.md) - Eventgrid og reisebrev fra GSAS
+
 ### [12.10.2023](/docs/20231012/readme.md) - Bicep i prosjekt, Microsoft Partner og AI-verktøy
 
 ### [21.09.2023](/docs/20230921/readme.md) - OpenSCAD og Event Sourcing
