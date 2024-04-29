@@ -2,7 +2,9 @@
 
 Denne fagkvelden hadde mange innlegg med et bredt spekter av tema :)
 
-## Microsoft Partner
+![Bilde fra fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20231012/fagkveld.png)
+
+## 🤝 Microsoft Partner
 
 Jan fortalte om endringene i Microsofts partnerprogram og kravene for å bli Microsoft Solutions Partner. Novanet har alltid vært Microsoft Gold Partner og ønsker å forsette å være Microsoft partner, også med det nye programmet. Det er spesifikt Solution Partner for Digital and App Innovation som vi ønsker å bli i første omgang.
 
@@ -18,7 +20,7 @@ Her kreves det flere sertifiseringer for å samle poeng. Blant annet må flere t
 
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure Developer Associate
-- Microsoft Certified: Azure Solutions Architect Exper
+- Microsoft Certified: Azure Solutions Architect Expert
 
 #### Customer Success
 
@@ -26,7 +28,7 @@ Denne kategorien ser på om økt bruk i de Azure subscriptions man har ansvar fo
 
 Målet er å bli Microsoft Solutions Partner ila. neste år.
 
-## Bicep i kundeprosjekt
+## 💪 Bicep i kundeprosjekt
 
 Vi har tidligere hatt innlegg om Bicep på fagkveld. Denne gangen gikk Leif igjennom litt mer omfattende praktisk bruk av Bicep.
 
@@ -36,7 +38,9 @@ Så demonstrerte han hvordan Bicep var satt opp hos kunden. De hadde mange ferdi
 
 Modulene deles via Azure Container Registry, slik at de blir tilgjenglig på tvers av team og prosjekter.
 
-## AI-verktøy for utviklere
+![Bilde fra fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20231012/bicep.png)
+
+## 🤖 AI-verktøy for utviklere
 
 Hans Arne har gjort research på forskjellige AI-verktøy for utviklere, og blant annet sett på lisensiering, hvordan de lagrer data og hvordan de fungerer i praksis. Dette for å lage en anbefaling og noen regler for bruk av disse verktøyene for Novanets konsulenter.
 
@@ -47,3 +51,10 @@ Noen viktige punkter var:
 - De fleste kundene våre stoler på Microsoft til å lagre kildekoden deres (Azure Devops eller Github) og kan derfor være mer mottagelige til å bruke Microsofts AI-verktøy (som Github Copilot) mot kildekoden deres
 
 Videre gav Hans Arne oss en del tips og triks ved bruk av AI-verktøy for utviklere.
+
+## ⚽ Sosialt
+
+Etter fagkvelden dro vi på Pokalen fotballpug og så Norge gruse Kypros 👊👏🙌
+
+![Bilde fra fagkveld](https://github.com/novanet/fagkvelder/blob/master/docs/20231012/pokalen.png)
+
